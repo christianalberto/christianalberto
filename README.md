@@ -149,25 +149,38 @@ Actualmente me enfoco en construir aplicaciones:
 
 # 📊 GitHub
 
+<details>
+<summary><h2>📊 Stats and Activity</h2></summary>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=christianalberto&theme=github-dark-blue&hide_border=true&border_radius=8" />
+</p>
+
+---
+
+## 💻 GitHub Stats
+
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=christianalberto&theme=github-dark-blue&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=christianalberto&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianalberto&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 
 </p>
 
-<p align="center">
+---
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=christianalberto&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianalberto&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=christianalberto&theme=darkhub&no-frame=true&margin-w=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=christianalberto&theme=github-dark&hide_border=true"/>
 
 </p>
+
+</details>
 
 ---
 
