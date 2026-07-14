@@ -171,18 +171,6 @@ Actualmente me enfoco en construir aplicaciones:
 
 ---
 
-# 🚀 Actualmente
-
-- ☁️ AWS Cloud
-- 🏗 Arquitectura Hexagonal
-- ⚡ Spring Boot 3
-- 🌎 Kubernetes
-- 🤖 Inteligencia Artificial
-- 🔗 Blockchain
-- 📈 Sistemas Distribuidos
-
----
-
 # 📫 Contacto
 
 <p>
