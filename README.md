@@ -5,7 +5,7 @@
 ### Senior Software Engineer • Cloud & DevOps Engineer • Solution Architect
 
 <p>
-Building scalable, cloud-native and enterprise software with Java, Spring, AWS and Kubernetes.
+Building secure, scalable, cloud-native and enterprise software with Java, Spring, AWS and Kubernetes.
 </p>
 
 <p>
@@ -26,18 +26,9 @@ Building scalable, cloud-native and enterprise software with Java, Spring, AWS a
 
 ## 🚀 About Me
 
-I'm a **Senior Software Engineer** with **18+ years of experience** designing and building enterprise applications for banking, telecommunications, e-commerce and cloud platforms.
+I'm a **Senior Software Engineer** with **18+ years of experience** designing and building enterprise applications across banking, telecommunications, e-commerce and cloud platforms.
 
-My expertise focuses on designing **scalable**, **maintainable** and **high-performance** systems using modern software architecture and cloud technologies.
-
-Currently working with:
-
-* ☕ Java & Spring Boot
-* ☁️ AWS Cloud
-* ⚙️ Kubernetes & Terraform
-* 🚀 Microservices & Hexagonal Architecture
-* 🔗 Blockchain & Web3
-* 🤖 Artificial Intelligence
+My expertise focuses on building **secure**, **scalable**, **cloud-native** and **high-performance** software following modern architecture, DevOps and security best practices.
 
 ---
 
@@ -67,46 +58,79 @@ Currently working with:
 
 ---
 
-## 💼 Core Expertise
+# 💼 Engineering Expertise
 
 ```text
-☕ Java Enterprise
-🚀 Spring Boot & Spring WebFlux
-🏗️ Hexagonal Architecture
-☁️ AWS Cloud
-⚙️ Kubernetes (EKS)
-🌍 Terraform
-🐳 Docker
-🔄 GitOps & ArgoCD
-📊 Observability (Datadog / Sentry)
-🔗 Blockchain & Smart Contracts
-🤖 AI-assisted Development
+🏗️ Architecture
+   • Hexagonal Architecture
+   • Microservices
+   • Distributed Systems
+   • Solution Architecture
+
+☕ Backend Engineering
+   • Java Enterprise
+   • Spring Boot & Spring WebFlux
+   • Node.js
+   • REST APIs
+
+🛡️ Security Engineering
+   • Spring Security
+   • JWT Authentication
+   • OAuth2 & OpenID Connect
+   • HttpOnly Cookies
+   • RBAC
+   • OWASP Top 10
+   • Secure API Design
+   • CSP • CORS • HTTPS • HSTS
+
+☁️ Cloud & DevOps
+   • AWS
+   • Kubernetes (EKS)
+   • Docker
+   • Terraform
+   • GitOps & ArgoCD
+   • CI/CD Pipelines
+
+📊 Observability
+   • Datadog
+   • Sentry
+   • Monitoring & Logging
+
+🔗 Web3
+   • Blockchain
+   • Smart Contracts
+
+🤖 AI Engineering
+   • AI-assisted Development
+   • LLM Applications
 ```
 
 ---
 
 ## 📌 Featured Technologies
 
-| Backend     | Cloud      | Frontend     | Database   |
-| ----------- | ---------- | ------------ | ---------- |
-| Java        | AWS        | Angular      | PostgreSQL |
-| Spring Boot | Kubernetes | TypeScript   | MongoDB    |
-| WebFlux     | Terraform  | Tailwind CSS | Redis      |
-| Node.js     | Docker     | HTML/CSS     |            |
+| Backend | Cloud | Frontend | Databases |
+|----------|--------|----------|-----------|
+| Java | AWS | Angular | PostgreSQL |
+| Spring Boot | Kubernetes | TypeScript | MongoDB |
+| Spring WebFlux | Docker | HTML/CSS | Redis |
+| Node.js | Terraform | Tailwind CSS | |
 
 ---
 
 ## 🌱 Currently Learning
 
-* Artificial Intelligence
-* LLM Applications
-* Cloud Architecture
-* Distributed Systems
+- Advanced AI Engineering
+- Multi-Agent Systems
+- LLM Applications
+- Cloud Architecture
+- Security Engineering
+- Distributed Systems
 
 ---
 
 <div align="center">
 
-### *"Clean architecture, automation and continuous learning."*
+### *Building secure, scalable and cloud-native software.*
 
 </div>
