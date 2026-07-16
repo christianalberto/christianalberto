@@ -193,7 +193,50 @@
     .markdown-body img {
       max-width: 100%;
       height: auto;
+      background: transparent !important;
+      box-sizing: content-box;
+      border: none;
     }
+
+    .markdown-body [align="center"],
+    .markdown-body p[align="center"],
+    .markdown-body div[align="center"],
+    .markdown-body h3[align="center"] {
+      text-align: center;
+    }
+
+    .markdown-body img[width="100%"] {
+      width: 100%;
+      height: auto;
+    }
+
+    .markdown-body img[height="170"] {
+      height: 170px;
+      width: auto;
+      max-width: 100%;
+    }
+
+    .markdown-body table td img[src*="capsule-render"] {
+      width: 100%;
+      display: block;
+      margin: 0 auto;
+    }
+
+    .markdown-body p > img[src*="shields.io"],
+    .markdown-body p > img[src*="skillicons"],
+    .markdown-body p > img[src*="komarev"],
+    .markdown-body p > img[src*="demolab.com"],
+    .markdown-body p > img[src*="vercel.app"] {
+      display: inline;
+      vertical-align: middle;
+    }
+
+    .markdown-body table td {
+      background-color: #1a1b26 !important;
+      vertical-align: top;
+    }
+
+    .markdown-body strong { color: var(--text); }
 
     .markdown-body code {
       background: var(--bg-toolbar) !important;

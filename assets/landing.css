@@ -209,6 +209,15 @@ a:hover { text-decoration: underline; }
   color: var(--text-subtle);
 }
 
+.landing-footer a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.landing-footer a:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 768px) {
   .landing-page { padding: 16px 12px 48px; }
   .landing-content { padding: 20px 16px 36px; }

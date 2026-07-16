@@ -25,9 +25,9 @@
 **Senior Full Stack Developer · Backend & Frontend · Software Engineer**
 
 <p>
+  <a href="https://christianalberto.vercel.app"><img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Profile"/></a>
   <a href="https://www.linkedin.com/in/christalbertav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:chdomavi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/christianalberto"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=christianalberto&label=Profile%20views&color=7AA2F7&style=for-the-badge" alt="Profile views"/>
@@ -236,7 +236,12 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 ## 💡 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=a9b1d6&authorColor=565f89&backgroundColor=1a1b26&symbolColor=565f89&border=false" alt="Random Dev Quote"/>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3800&pause=1800&color=9ece6a&center=true&vCenter=true&width=850&lines=%3E+Talk+is+cheap.+Show+me+the+code.;//+Linus+Torvalds;%3E+First,+solve+the+problem.+Then,+write+the+code.;//+John+Johnson;%3E+Code+is+like+humor.+When+you+have+to+explain+it,+it%27s+bad.;//+Cory+House;%3E+Make+it+work,+make+it+right,+make+it+fast.;//+Kent+Beck;%3E+Programs+must+be+written+for+people+to+read.;//+Harold+Abelson;%3E+Any+fool+can+write+code+that+a+computer+can+understand.;//+Martin+Fowler"
+      alt="Random Dev Quote"
+    />
+  </a>
 </p>
 
 ---
@@ -250,6 +255,7 @@ I'm open to collaborating on **full stack development**, **backend APIs**, **fro
 <a href="mailto:chdomavi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://wa.me/34600000000"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="https://www.linkedin.com/in/christalbertav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://christianalberto.vercel.app"><img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Profile"/></a>
 
 <br/><br/>
 
