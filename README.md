@@ -216,10 +216,10 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 
 ---
 
-## 🌱 Currently Learning
+## 🛰️ AI · Currently Learning
 
 <div align="center">
-  <img src="img/header.webp" alt="Currently Learning" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
+  <img src="img/header.webp" alt="AI · Currently Learning" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
 </div>
 
 | Period | Role | Focus |
