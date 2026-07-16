@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="img/foto.png" alt="Christian Alberto Domenech" width="170" style="border-radius: 50%; border: 3px solid #7AA2F7;" />
+<img src="img/foto.png" alt="Christian Alberto Domenech" width="240" style="border-radius: 50%; border: 4px solid #7AA2F7;" />
 
 <br/><br/>
 
@@ -64,17 +64,11 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christianalberto&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  &nbsp;
   <img src="https://streak-stats.demolab.com/?user=christianalberto&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christianalberto&theme=tokyonight" alt="Profile Summary"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=christianalberto&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
@@ -246,18 +240,6 @@ timeline
 | **2016 – 2020** | Full Stack Developer | Backend + frontend, Angular, microservices |
 | **2020 – 2024** | Senior Full Stack Developer | Java, Spring Boot, React, Node.js, MongoDB |
 | **2024 – Now** | Senior Full Stack Developer | Enterprise software, APIs, AI-assisted development |
-
----
-
-## 🐍 Contribution Snake
-
-<!-- Se activa tras el primer run del workflow .github/workflows/snake.yml -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/christianalberto/christianalberto/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/christianalberto/christianalberto/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/christianalberto/christianalberto/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
 
 ---
 
