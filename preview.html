@@ -3,106 +3,291 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>README Preview ó christianalberto</title>
+  <title>README Preview ù christianalberto</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown-dark.min.css" />
   <style>
+    :root {
+      --bg: #1a1b26;
+      --bg-elevated: #16161e;
+      --bg-toolbar: #24283b;
+      --border: #414868;
+      --text: #c0caf5;
+      --text-muted: #a9b1d6;
+      --text-subtle: #565f89;
+      --accent: #7aa2f7;
+      --green: #9ece6a;
+    }
+
     * { box-sizing: border-box; }
+
     body {
       margin: 0;
-      background: #0d1117;
-      color: #c9d1d9;
+      background: var(--bg);
+      color: var(--text);
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
     }
+
     .toolbar {
       position: sticky;
       top: 0;
-      z-index: 10;
+      z-index: 20;
       display: flex;
       align-items: center;
       justify-content: space-between;
       gap: 12px;
       padding: 12px 20px;
-      background: #161b22;
-      border-bottom: 1px solid #30363d;
+      background: var(--bg-toolbar);
+      border-bottom: 1px solid var(--border);
+      backdrop-filter: blur(8px);
     }
-    .toolbar strong { color: #58a6ff; }
-    .toolbar span { color: #8b949e; font-size: 14px; }
-    .toolbar-actions { display: flex; gap: 8px; align-items: center; }
+
+    .toolbar strong { color: var(--accent); }
+    .toolbar span { color: var(--text-subtle); font-size: 14px; }
+
+    .toolbar-actions {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
     .toolbar button {
-      background: #238636;
-      color: #fff;
-      border: 1px solid rgba(240, 246, 252, 0.1);
+      background: var(--green);
+      color: #1a1b26;
+      border: none;
       border-radius: 6px;
       padding: 6px 12px;
       cursor: pointer;
       font-size: 14px;
+      font-weight: 600;
     }
+
     .toolbar button.secondary {
-      background: #21262d;
-      color: #c9d1d9;
+      background: var(--bg-elevated);
+      color: var(--text);
+      border: 1px solid var(--border);
+      font-weight: 500;
     }
+
     .toolbar button:hover { filter: brightness(1.08); }
+
     .toolbar label {
       display: flex;
       align-items: center;
       gap: 6px;
-      color: #8b949e;
+      color: var(--text-muted);
       font-size: 13px;
       user-select: none;
     }
-    .container {
+
+    .page {
       max-width: 1012px;
       margin: 0 auto;
-      padding: 24px 32px 64px;
+      padding: 24px 24px 64px;
     }
-    .markdown-body {
-      background: #0d1117;
-      padding: 32px;
-      border: 1px solid #30363d;
-      border-radius: 6px;
-    }
-    .markdown-body img { max-width: 100%; }
+
     .note {
       margin-bottom: 16px;
       padding: 12px 16px;
-      border: 1px solid #30363d;
-      border-radius: 6px;
-      background: #161b22;
-      color: #8b949e;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: var(--bg-toolbar);
+      color: var(--text-muted);
       font-size: 14px;
-      line-height: 1.5;
+      line-height: 1.55;
     }
+
+    .note code {
+      background: var(--bg-elevated);
+      color: var(--accent);
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+
     .status {
       margin-bottom: 12px;
       font-size: 13px;
-      color: #3fb950;
+      color: var(--green);
     }
-    .error { color: #f85149; }
+
+    .error { color: #f7768e; }
+
+    /* Simula la tarjeta del README en el perfil de GitHub */
+    .profile-shell {
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+      background: var(--bg);
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35);
+    }
+
+    .profile-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 14px 20px;
+      background: var(--bg-toolbar);
+      border-bottom: 1px solid var(--border);
+      font-size: 14px;
+    }
+
+    .profile-header .user {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      color: var(--text);
+      font-weight: 600;
+    }
+
+    .profile-header .avatar {
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      border: 2px solid var(--accent);
+      object-fit: cover;
+    }
+
+    .profile-header .badge {
+      font-size: 12px;
+      color: var(--text-subtle);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 4px 10px;
+    }
+
+    .markdown-body {
+      background: var(--bg) !important;
+      color: var(--text-muted) !important;
+      padding: 32px 40px 48px !important;
+      max-width: none !important;
+    }
+
+    .markdown-body h1,
+    .markdown-body h2,
+    .markdown-body h3,
+    .markdown-body h4 {
+      color: var(--text) !important;
+      border-bottom-color: var(--border) !important;
+    }
+
+    .markdown-body a { color: var(--accent) !important; }
+    .markdown-body hr {
+      background-color: var(--border) !important;
+      border: none;
+      height: 1px;
+    }
+
+    .markdown-body table {
+      display: table;
+      width: 100%;
+      overflow: auto;
+    }
+
+    .markdown-body table th,
+    .markdown-body table td {
+      border-color: var(--border) !important;
+      color: var(--text-muted) !important;
+    }
+
+    .markdown-body img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .markdown-body code {
+      background: var(--bg-toolbar) !important;
+      color: var(--green) !important;
+    }
+
+    .markdown-body pre {
+      background: var(--bg-toolbar) !important;
+      border: 1px solid var(--border);
+    }
+
+    .theme-toggle {
+      display: flex;
+      gap: 4px;
+      padding: 3px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: var(--bg-elevated);
+    }
+
+    .theme-toggle button {
+      background: transparent;
+      color: var(--text-muted);
+      border: none;
+      border-radius: 5px;
+      padding: 5px 10px;
+      font-size: 12px;
+      font-weight: 500;
+      cursor: pointer;
+    }
+
+    .theme-toggle button.active {
+      background: var(--accent);
+      color: #1a1b26;
+      font-weight: 600;
+    }
+
+    body.theme-github {
+      --bg: #0d1117;
+      --bg-elevated: #161b22;
+      --bg-toolbar: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --text-muted: #c9d1d9;
+      --text-subtle: #8b949e;
+      --accent: #58a6ff;
+      --green: #3fb950;
+    }
+
+    @media (max-width: 768px) {
+      .page { padding: 16px 12px 48px; }
+      .markdown-body { padding: 20px 16px 32px !important; }
+      .profile-header { flex-direction: column; align-items: flex-start; }
+    }
   </style>
 </head>
-<body>
+<body class="theme-tokyo">
   <div class="toolbar">
     <div>
       <strong>README Preview</strong>
-      <span> ∑ vista local similar a GitHub</span>
+      <span> ù vista local del perfil GitHub</span>
     </div>
     <div class="toolbar-actions">
+      <div class="theme-toggle" role="group" aria-label="Tema">
+        <button type="button" id="themeTokyo" class="active">Tokyo Night</button>
+        <button type="button" id="themeGithub">GitHub Dark</button>
+      </div>
       <label>
         <input id="autoReload" type="checkbox" checked />
         Auto-recarga (3s)
       </label>
-      <button type="button" class="secondary" onclick="openGithubPreviewHelp()">Preview 100% GitHub</button>
+      <button type="button" class="secondary" onclick="openGithubPreviewHelp()">Preview en GitHub</button>
       <button type="button" onclick="loadReadme()">Recargar</button>
     </div>
   </div>
 
-  <div class="container">
+  <div class="page">
     <div class="note">
-      Edita <code>README.md</code> en Cursor, guarda (<code>Ctrl+S</code>) y revisa aquÌ.
-      No necesitas commit ni push. Los widgets externos (stats, typing, trophies) cargan desde internet.
+      Edita <code>README.md</code> en Cursor, guarda (<code>Ctrl+S</code>) y revisa aquù.
+      No necesitas commit ni push. Stats, typing SVG y quotes cargan desde internet.
+      Inicia con <code>preview.bat</code> o <code>npm run preview</code>.
     </div>
     <div id="status" class="status">Listo</div>
-    <article id="content" class="markdown-body">Cargando README...</article>
+
+    <div class="profile-shell">
+      <div class="profile-header">
+        <div class="user">
+          <img class="avatar" src="img/foto.png" alt="" onerror="this.style.display='none'" />
+          <span>christianalberto / README.md</span>
+        </div>
+        <span class="badge">Profile README ù preview local</span>
+      </div>
+      <article id="content" class="markdown-body">Cargando README...</article>
+    </div>
   </div>
 
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
@@ -115,7 +300,7 @@
     function setStatus(text, isError) {
       const el = document.getElementById("status");
       el.textContent = text;
-      el.style.color = isError ? "#f85149" : "#3fb950";
+      el.style.color = isError ? "#f7768e" : "var(--green)";
     }
 
     function hashText(text) {
@@ -154,6 +339,14 @@
       }
     }
 
+    function setTheme(theme) {
+      document.body.classList.remove("theme-tokyo", "theme-github");
+      document.body.classList.add(theme === "github" ? "theme-github" : "theme-tokyo");
+      document.getElementById("themeTokyo").classList.toggle("active", theme !== "github");
+      document.getElementById("themeGithub").classList.toggle("active", theme === "github");
+      localStorage.setItem("readme-preview-theme", theme);
+    }
+
     function openGithubPreviewHelp() {
       alert(
         "Preview 100% identico a GitHub (sin commit):\n\n" +
@@ -161,11 +354,15 @@
         "2. Abre README.md y clic en el lapiz (Edit)\n" +
         "3. Pega tu README local\n" +
         "4. Clic en la pestana Preview\n" +
-        "5. NO hagas commit ó cierra la pestana"
+        "5. NO hagas commit ù cierra la pestana"
       );
     }
 
     document.getElementById("autoReload").addEventListener("change", setupAutoReload);
+    document.getElementById("themeTokyo").addEventListener("click", function () { setTheme("tokyo"); });
+    document.getElementById("themeGithub").addEventListener("click", function () { setTheme("github"); });
+
+    setTheme(localStorage.getItem("readme-preview-theme") || "tokyo");
     loadReadme();
     setupAutoReload();
   </script>

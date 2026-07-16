@@ -2,6 +2,8 @@
   "name": "christianalberto-readme-preview",
   "private": true,
   "scripts": {
-    "preview": "npx serve . -p 3333"
+    "preview": "npx serve . -p 3333",
+    "start": "npx serve . -p 3333",
+    "web": "npx serve . -p 3333"
   }
 }

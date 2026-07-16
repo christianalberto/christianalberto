@@ -160,7 +160,7 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 <h3 align="center"><font color="#c0caf5">🛡 Security</font></h3>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:37474F,50:6DB33F,100:9ece6a&height=150&section=header&text=Security&fontSize=26&fontColor=fff" alt="Security"/>
-  <p><font color="#a9b1d6">Secure APIs with JWT, OAuth2 and Spring Security, IAM with Keycloak and OWASP-aligned design.</font></p>
+  <p><font color="#a9b1d6">Secure enterprise APIs with JWT and OAuth2 authentication, authorization with Spring Security, identity management with Keycloak and OWASP-aligned application design.</font></p>
   <p>
     <img src="https://img.shields.io/badge/OWASP-37474F?style=flat-square&logo=owasp&logoColor=white"/>
     <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=json-web-tokens&logoColor=white"/>
