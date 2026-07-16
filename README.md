@@ -85,14 +85,14 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 
 ## 📌 Featured Technologies
 
-<table>
+<table cellspacing="8" cellpadding="12">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#1a1b26">
 
-<h3 align="center">☕ Backend Engineering</h3>
+<h3 align="center"><font color="#c0caf5">☕ Backend Engineering</font></h3>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=150&section=header&text=Backend&fontSize=26&fontColor=fff" alt="Backend Engineering"/>
-  <p>Enterprise APIs, business logic and REST services with Java ecosystem and Node.js.</p>
+  <p><font color="#a9b1d6">Enterprise APIs, business logic and REST services with Java ecosystem and Node.js.</font></p>
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
@@ -104,12 +104,12 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#1a1b26">
 
-<h3 align="center">🎨 Frontend Development</h3>
+<h3 align="center"><font color="#c0caf5">🎨 Frontend Development</font></h3>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=150&section=header&text=Frontend&fontSize=26&fontColor=fff" alt="Frontend Development"/>
-  <p>Modern, responsive web applications with component-based frameworks and TypeScript.</p>
+  <p><font color="#a9b1d6">Modern, responsive web applications with component-based frameworks and TypeScript.</font></p>
   <p>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -122,12 +122,12 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#1a1b26">
 
-<h3 align="center">☁️ Cloud & Infrastructure</h3>
+<h3 align="center"><font color="#c0caf5">☁️ Cloud & Infrastructure</font></h3>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=150&section=header&text=Cloud&fontSize=26&fontColor=fff" alt="Cloud & Infrastructure"/>
-  <p>Scalable deployment on AWS with containers, orchestration and infrastructure as code.</p>
+  <p><font color="#a9b1d6">Scalable deployment on AWS with containers, orchestration and infrastructure as code.</font></p>
   <p>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
@@ -138,12 +138,12 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#1a1b26">
 
-<h3 align="center">🗄 Databases & Caching</h3>
+<h3 align="center"><font color="#c0caf5">🗄 Databases & Caching</font></h3>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30&height=150&section=header&text=Databases&fontSize=26&fontColor=fff" alt="Databases & Caching"/>
-  <p>Relational and NoSQL persistence, caching and high-performance data storage.</p>
+  <p><font color="#a9b1d6">Relational and NoSQL persistence, caching and high-performance data storage.</font></p>
   <p>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -155,12 +155,12 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#1a1b26">
 
-<h3 align="center">🛡 Security & Best Practices</h3>
+<h3 align="center"><font color="#c0caf5">🛡 Security & Best Practices</font></h3>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18&height=150&section=header&text=Security&fontSize=26&fontColor=fff" alt="Security"/>
-  <p>Secure APIs, authentication, authorization and OWASP-aligned application design.</p>
+  <p><font color="#a9b1d6">Secure APIs, authentication, authorization and OWASP-aligned application design.</font></p>
   <p>
     <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
     <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=json-web-tokens&logoColor=white"/>
@@ -170,12 +170,12 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#1a1b26">
 
-<h3 align="center">🛠 DevOps & Tooling</h3>
+<h3 align="center"><font color="#c0caf5">🛠 DevOps & Tooling</font></h3>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3&height=150&section=header&text=DevOps&fontSize=26&fontColor=fff" alt="DevOps & Tooling"/>
-  <p>Version control, CI/CD workflows, Linux environments and application observability.</p>
+  <p><font color="#a9b1d6">Version control, CI/CD workflows, Linux environments and application observability.</font></p>
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -189,12 +189,12 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#1a1b26">
 
-<h3 align="center">🤖 AI Engineering</h3>
+<h3 align="center"><font color="#c0caf5">🤖 AI Engineering</font></h3>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9&height=150&section=header&text=AI%20Engineering&fontSize=24&fontColor=fff" alt="AI Engineering"/>
-  <p>LLM-powered applications, AI-assisted development and intelligent software solutions.</p>
+  <p><font color="#a9b1d6">LLM-powered applications, AI-assisted development and intelligent software solutions.</font></p>
   <p>
     <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
@@ -202,12 +202,12 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#1a1b26">
 
-<h3 align="center">🔗 Web3 & Blockchain</h3>
+<h3 align="center"><font color="#c0caf5">🔗 Web3 & Blockchain</font></h3>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15&height=150&section=header&text=Web3&fontSize=26&fontColor=fff" alt="Web3"/>
-  <p>Blockchain integrations, smart contracts and decentralized application backends.</p>
+  <p><font color="#a9b1d6">Blockchain integrations, smart contracts and decentralized application backends.</font></p>
   <p>
     <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
     <img src="https://img.shields.io/badge/Web3-3B82F6?style=flat-square&logo=web3dotjs&logoColor=white"/>
@@ -281,7 +281,7 @@ timeline
 ## 💡 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=9ece6a&authorColor=7dcfff&backgroundColor=0d1117&symbolColor=565f89&border=false" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=9ece6a&authorColor=7dcfff&backgroundColor=1a1b26&symbolColor=565f89&border=false" alt="Random Dev Quote"/>
 </p>
 
 ---
