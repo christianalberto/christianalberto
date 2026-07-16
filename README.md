@@ -236,7 +236,7 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 ## 💡 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quoteColor=c0caf5&authorColor=9ece6a&backgroundColor=24283b&symbolColor=7aa2f7&border=true" alt="Random Dev Quote" width="380"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quoteColor=c0caf5&authorColor=9ece6a&backgroundColor=24283b&symbolColor=7aa2f7&border=true" alt="Random Dev Quote" width="320"/>
 </p>
 
 ---
