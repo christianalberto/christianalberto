@@ -178,6 +178,18 @@ a:hover { text-decoration: underline; }
 
 .landing-content .badges-row a:hover { text-decoration: none; }
 
+.landing-content .quote-section {
+  text-align: center;
+}
+
+.landing-content .quote-widget {
+  width: 100%;
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  background: transparent;
+}
+
 .landing-content table {
   width: 100%;
   border-collapse: collapse;

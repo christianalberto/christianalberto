@@ -236,12 +236,7 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 ## 💡 Random Dev Quote
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3800&pause=1800&color=9ece6a&center=true&vCenter=true&width=850&lines=%3E+Talk+is+cheap.+Show+me+the+code.;//+Linus+Torvalds;%3E+First,+solve+the+problem.+Then,+write+the+code.;//+John+Johnson;%3E+Code+is+like+humor.+When+you+have+to+explain+it,+it%27s+bad.;//+Cory+House;%3E+Make+it+work,+make+it+right,+make+it+fast.;//+Kent+Beck;%3E+Programs+must+be+written+for+people+to+read.;//+Harold+Abelson;%3E+Any+fool+can+write+code+that+a+computer+can+understand.;//+Martin+Fowler"
-      alt="Random Dev Quote"
-    />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteColor=c0caf5&authorColor=7aa2f7&backgroundColor=1a1b26&symbolColor=565f89&border=false" alt="Random Dev Quote"/>
 </p>
 
 ---
@@ -253,7 +248,7 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 I'm open to collaborating on **full stack development**, **backend APIs**, **frontend applications** and **enterprise software** projects.
 
 <a href="mailto:chdomavi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://wa.me/34600000000"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://wa.me/593987322612"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="https://www.linkedin.com/in/christalbertav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://christianalberto.vercel.app"><img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Profile"/></a>
 
@@ -261,6 +256,6 @@ I'm open to collaborating on **full stack development**, **backend APIs**, **fro
 
 ### *Building clean, scalable and maintainable software.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=c0caf5&animation=twinkling" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=414868&animation=twinkling" alt="Footer"/>
 
 </div>
