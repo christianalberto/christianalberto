@@ -1,0 +1,7 @@
+{
+  "name": "christianalberto-readme-preview",
+  "private": true,
+  "scripts": {
+    "preview": "npx serve . -p 3333"
+  }
+}
