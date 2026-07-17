@@ -224,12 +224,9 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 
 | Period | Role | Focus |
 |:------:|:-----|:------|
-| **Now** | Advanced AI Engineering | AI-assisted development, intelligent software integration |
-| **Now** | Multi-Agent Systems | Autonomous agents, orchestration & agent workflows |
-| **Now** | LLM Applications | Production-ready apps powered by large language models |
-| **Now** | Cloud Architecture | Scalable, resilient application design in the cloud |
-| **Now** | Security Engineering | Secure APIs, authentication, OWASP best practices |
-| **Now** | Distributed Systems | Microservices, high availability & system reliability |
+| **Basics** | AI Fundamentals | Prompt engineering, LLM basics & AI-assisted coding |
+| **Intermediate** | LLM & RAG | Embeddings, retrieval-augmented generation & AI APIs |
+| **Advanced** | Multi-Agent Systems | Autonomous agents, orchestration & production AI workflows |
 
 ---
 
