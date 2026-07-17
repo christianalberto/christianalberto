@@ -164,12 +164,6 @@ a:hover { text-decoration: underline; }
   width: auto;
 }
 
-.landing-content .capsule-header {
-  width: 100%;
-  display: block;
-  margin: 0 auto;
-}
-
 .landing-content .badges-row img,
 .landing-content .badges-row a {
   display: inline;
@@ -197,13 +191,6 @@ a:hover { text-decoration: underline; }
   border-collapse: collapse;
 }
 
-.landing-content .featured-grid td {
-  width: 50%;
-  vertical-align: top;
-  background-color: var(--bg);
-  padding: 12px;
-}
-
 .landing-content .data-table th,
 .landing-content .data-table td {
   border: 1px solid var(--border);
@@ -226,28 +213,10 @@ a:hover { text-decoration: underline; }
   line-height: 2.2;
 }
 
-.landing-content .compare-label {
-  font-size: 0.85em;
-  color: var(--text-subtle);
-  font-weight: normal;
-  font-style: italic;
-}
-
-.landing-content .practice-table td:first-child {
-  white-space: nowrap;
-  vertical-align: top;
-  color: var(--text);
-}
-
 .landing-content .practice-table .stack-cell {
   color: var(--accent);
   font-size: 0.92em;
   vertical-align: top;
-}
-
-.landing-content .practice-table .stack-cell.badges-row {
-  color: inherit;
-  line-height: 2.2;
 }
 
 .landing-footer {
@@ -271,11 +240,4 @@ a:hover { text-decoration: underline; }
   .landing-content { padding: 20px 16px 36px; }
   .landing-nav { padding: 12px 16px; }
   .landing-nav .brand span { font-size: 14px; }
-  .landing-content .featured-grid,
-  .landing-content .featured-grid tbody,
-  .landing-content .featured-grid tr,
-  .landing-content .featured-grid td {
-    display: block;
-    width: 100%;
-  }
 }
