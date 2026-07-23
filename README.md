@@ -155,7 +155,7 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 ---
 
 <p align="center">
-![GitHub Streak](https://streak-stats.demolab.com/?user=christianalberto&theme=tokyonight&hide_border=true&border_radius=12&cache=false)
+    <img src="https://streak-stats.demolab.com/?user=christianalberto&theme=tokyonight&hide_border=true&border_radius=12&cache=false" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
