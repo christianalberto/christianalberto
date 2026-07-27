@@ -26,7 +26,9 @@
 
 <p>
   <a href="https://christianalberto.vercel.app"><img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Profile"/></a>
-  <a href="https://www.linkedin.com/in/christalbertav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/christalbertav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
   <a href="mailto:chdomavi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -226,24 +228,16 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 
 I'm open to collaborating on **full stack development**, **backend APIs**, **frontend applications** and **enterprise software** projects.
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="mailto:chdomavi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    </td>
-    <td align="center">
-      <a href="https://wa.me/593987322612"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/christalbertav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    </td>
-    <td align="center">
-      <a href="https://christianalberto.vercel.app"><img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Profile"/></a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="mailto:chdomavi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  &nbsp;
+  <a href="https://wa.me/593987322612"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/christalbertav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://christianalberto.vercel.app"><img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Profile"/></a>
+</p>
 
 <br/>
 
