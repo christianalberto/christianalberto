@@ -228,16 +228,24 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 
 I'm open to collaborating on **full stack development**, **backend APIs**, **frontend applications** and **enterprise software** projects.
 
-<p>
-  <a href="mailto:chdomavi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  &nbsp;
-  <a href="https://wa.me/593987322612"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-</p>
-<p>
-  <a href="https://www.linkedin.com/in/christalbertav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://christianalberto.vercel.app"><img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Profile"/></a>
-</p>
+<table align="center" border="0" cellpadding="8" cellspacing="0">
+  <tr>
+    <td align="center" style="border: none; padding: 8px;">
+      <a href="mailto:chdomavi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <a href="https://wa.me/593987322612"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 8px;">
+      <a href="https://www.linkedin.com/in/christalbertav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <a href="https://christianalberto.vercel.app"><img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Profile"/></a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -245,4 +253,4 @@ I'm open to collaborating on **full stack development**, **backend APIs**, **fro
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=414868&animation=twinkling" alt="Footer"/>
 
-</div>
+y 
