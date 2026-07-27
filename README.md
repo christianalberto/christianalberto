@@ -185,24 +185,16 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 ## 💼 Career Timeline
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:7aa2f7&height=120&section=header&text=Professional%20Journey&fontSize=24&fontColor=c0caf5" alt="Professional Journey" width="100%"/>
-  <p>
-    <img src="https://img.shields.io/badge/2007-24283b?style=flat-square"/>
-    <img src="https://img.shields.io/badge/2012-24283b?style=flat-square"/>
-    <img src="https://img.shields.io/badge/2016-24283b?style=flat-square"/>
-    <img src="https://img.shields.io/badge/2020-24283b?style=flat-square"/>
-    <img src="https://img.shields.io/badge/2024-24283b?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Now-7AA2F7?style=flat-square"/>
-  </p>
+  <img src="assets/timeline.svg" alt="Professional Journey · 2007 to Now" width="100%"/>
 </div>
 
 | Period | Role | Focus |
 |:------:|:-----|:------|
-| **2007 – 2012** | Software Developer → Backend Developer | Java, enterprise apps, banking systems |
-| **2012 – 2016** | Java Backend Developer | REST APIs, Spring, Oracle/PostgreSQL |
-| **2016 – 2020** | Full Stack Developer | Backend + frontend, Angular, microservices |
-| **2020 – 2024** | Senior Full Stack Developer | Java, Spring Boot, React, Node.js, MongoDB |
-| **2024 – Now** | Senior Full Stack Developer | Enterprise software, APIs, AI-assisted development |
+| **2007–2012** | Software Developer → Backend Developer | Java, enterprise apps, banking systems |
+| **2012–2016** | Java Backend Developer | REST APIs, Spring, Oracle/PostgreSQL |
+| **2016–2020** | Full Stack Developer | Backend + frontend, Angular, microservices |
+| **2020–2024** | Senior Full Stack Developer | Java, Spring Boot, React, Node.js, MongoDB |
+| **2024–Now** | Senior Full Stack Developer | Enterprise software, APIs, AI-assisted development |
 
 ---
 
@@ -234,12 +226,26 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 
 I'm open to collaborating on **full stack development**, **backend APIs**, **frontend applications** and **enterprise software** projects.
 
-<a href="mailto:chdomavi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://wa.me/593987322612"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-<a href="https://www.linkedin.com/in/christalbertav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://christianalberto.vercel.app"><img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Profile"/></a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:chdomavi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/593987322612"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/christalbertav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    </td>
+    <td align="center">
+      <a href="https://christianalberto.vercel.app"><img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Profile"/></a>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 ### *Building clean, scalable and maintainable software.*
 
