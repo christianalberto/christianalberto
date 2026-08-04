@@ -251,6 +251,4 @@ I'm open to collaborating on **full stack development**, **backend APIs**, **fro
 
 ### *Building clean, scalable and maintainable software.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=414868&animation=twinkling" alt="Footer"/>
-
-y 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=414868&animation=twinkling" alt="Footer"/> 
