@@ -161,10 +161,6 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=christianalberto&theme=tokyonight&show_icons=true" alt="Estadísticas de GitHub"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianalberto&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
 </p>
 
