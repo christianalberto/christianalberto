@@ -33,7 +33,7 @@
 
 ---
 
-## 👤 About Me
+## <img src="https://api.iconify.design/tabler:user.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> About Me
 
 Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** building enterprise software for **banking, telecom, e-commerce and digital platforms**. I focus on **backend development**, **frontend applications**, **REST APIs** and **clean, maintainable code**.
 
@@ -41,7 +41,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 ---
 
-## 💻 Core Competencies
+## <img src="https://api.iconify.design/tabler:cpu.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> Core Competencies
 
 <table>
 <tbody>
@@ -153,23 +153,23 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 ---
 
-## 👨‍💻 What I Do
+## <img src="https://api.iconify.design/tabler:briefcase.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> What I Do
 
 | Area | Focus | Key stack |
 |:-----|:------|:----------|
-| **☕ Backend Engineering** | Microservices, REST APIs, business logic, persistence and async processing with message queues. Scalable backend services built on Java/Spring and Node.js. | Java · Spring Boot · WebFlux · Hibernate · RabbitMQ · Node.js |
-| **⚛️ Frontend Development** | Modern web applications — SPAs, SSR and hybrid apps — with Angular, React and Next.js. Component architecture, TypeScript and performance-focused UIs. | Angular · React · Next.js · TypeScript · Vite · RxJS |
-| **☁️ Cloud & DevOps** | Cloud-native deployment, containers, orchestration, IaC, CI/CD pipelines and observability. | AWS · Docker · Kubernetes · Terraform · Jenkins · Vercel · Heroku · Railway |
-| **🗄 Databases & Caching** | Relational and NoSQL data layers, migrations and high-performance reads with caching. | PostgreSQL · Oracle · MySQL · SQL Server · MongoDB · Redis |
-| **🛡 Security** | Secure enterprise APIs: authentication, authorization, identity management and OWASP-aligned design. | JWT · OAuth2 · Spring Security · Keycloak · OWASP |
-| **🔗 Web3 & Blockchain** | Smart contracts, wallet integrations and secure dApp backends. | Solidity · Ethereum · WalletConnect · OpenZeppelin |
-| **🧪 Testing & Quality** | Unit, integration and E2E testing; API validation and code quality gates. | JUnit · Mockito · Jest · Cypress · Postman · SonarQube |
+| **<img src="https://api.iconify.design/tabler:coffee.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Backend Engineering** | Microservices, REST APIs, business logic, persistence and async processing with message queues. Scalable backend services built on Java/Spring and Node.js. | Java · Spring Boot · WebFlux · Hibernate · RabbitMQ · Node.js |
+| **<img src="https://api.iconify.design/tabler:bolt.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Frontend Development** | Modern web applications — SPAs, SSR and hybrid apps — with Angular, React and Next.js. Component architecture, TypeScript and performance-focused UIs. | Angular · React · Next.js · TypeScript · Vite · RxJS |
+| **<img src="https://api.iconify.design/tabler:cloud.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Cloud & DevOps** | Cloud-native deployment, containers, orchestration, IaC, CI/CD pipelines and observability. | AWS · Docker · Kubernetes · Terraform · Jenkins · Vercel · Heroku · Railway |
+| **<img src="https://api.iconify.design/tabler:database.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Databases & Caching** | Relational and NoSQL data layers, migrations and high-performance reads with caching. | PostgreSQL · Oracle · MySQL · SQL Server · MongoDB · Redis |
+| **<img src="https://api.iconify.design/tabler:shield-lock.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Security** | Secure enterprise APIs: authentication, authorization, identity management and OWASP-aligned design. | JWT · OAuth2 · Spring Security · Keycloak · OWASP |
+| **<img src="https://api.iconify.design/tabler:link.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Web3 & Blockchain** | Smart contracts, wallet integrations and secure dApp backends. | Solidity · Ethereum · WalletConnect · OpenZeppelin |
+| **<img src="https://api.iconify.design/tabler:flask.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Testing & Quality** | Unit, integration and E2E testing; API validation and code quality gates. | JUnit · Mockito · Jest · Cypress · Postman · SonarQube |
 
 <br/>
 
 ---
 
-## 💼 Career Timeline
+## <img src="https://api.iconify.design/tabler:timeline.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> Career Timeline
 
 <div align="center">
   <img src="assets/timeline.svg" alt="Professional Journey · 2007 to Now" width="100%"/>
@@ -187,7 +187,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 ---
 
-## 🛰️ AI · Currently Learning
+## <img src="https://api.iconify.design/tabler:brain.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> AI · Currently Learning
 
 <div align="center">
   <img src="img/header.webp" alt="AI · Currently Learning" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
@@ -203,7 +203,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 ---
 
-## 🌐 Contact
+## <img src="https://api.iconify.design/tabler:mail.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> Contact
 
 <div align="center">
 
@@ -227,4 +227,6 @@ I'm open to collaborating on **full stack development**, **backend APIs**, **fro
 
 ### *Building clean, scalable and maintainable software.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=414868&animation=twinkling" alt="Footer"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=414868&animation=twinkling" alt="Footer"/>
+
+</div>
