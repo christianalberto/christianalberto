@@ -14,7 +14,7 @@
   />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="img/foto.png" alt="Christian Alberto Domenech" width="340" />
 
