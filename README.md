@@ -33,13 +33,15 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👤 About Me
 
 Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** building enterprise software for **banking, telecom, e-commerce and digital platforms**. I focus on **backend development**, **frontend applications**, **REST APIs** and **clean, maintainable code**.
 
+<br/>
+
 ---
 
-## 🎯 Core Competencies
+## 💻 Core Competencies
 
 <table>
 <tbody>
@@ -141,6 +143,8 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 </tbody>
 </table>
 
+<br/>
+
 ---
 
 <p align="center">
@@ -149,17 +153,19 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 ---
 
-## 💼 What I Do
+## 👨‍💻 What I Do
 
 | Area | Focus | Key stack |
 |:-----|:------|:----------|
 | **☕ Backend Engineering** | Microservices, REST APIs, business logic, persistence and async processing with message queues. Scalable backend services built on Java/Spring and Node.js. | Java · Spring Boot · WebFlux · Hibernate · RabbitMQ · Node.js |
-| **🎨 Frontend Development** | Modern web applications — SPAs, SSR and hybrid apps — with Angular, React and Next.js. Component architecture, TypeScript and performance-focused UIs. | Angular · React · Next.js · TypeScript · Vite · RxJS |
+| **⚛️ Frontend Development** | Modern web applications — SPAs, SSR and hybrid apps — with Angular, React and Next.js. Component architecture, TypeScript and performance-focused UIs. | Angular · React · Next.js · TypeScript · Vite · RxJS |
 | **☁️ Cloud & DevOps** | Cloud-native deployment, containers, orchestration, IaC, CI/CD pipelines and observability. | AWS · Docker · Kubernetes · Terraform · Jenkins · Vercel · Heroku · Railway |
 | **🗄 Databases & Caching** | Relational and NoSQL data layers, migrations and high-performance reads with caching. | PostgreSQL · Oracle · MySQL · SQL Server · MongoDB · Redis |
 | **🛡 Security** | Secure enterprise APIs: authentication, authorization, identity management and OWASP-aligned design. | JWT · OAuth2 · Spring Security · Keycloak · OWASP |
 | **🔗 Web3 & Blockchain** | Smart contracts, wallet integrations and secure dApp backends. | Solidity · Ethereum · WalletConnect · OpenZeppelin |
 | **🧪 Testing & Quality** | Unit, integration and E2E testing; API validation and code quality gates. | JUnit · Mockito · Jest · Cypress · Postman · SonarQube |
+
+<br/>
 
 ---
 
@@ -177,6 +183,8 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 | **2020–2024** | Senior Full Stack Developer | Java, Spring Boot, React, Node.js, MongoDB |
 | **2024–Now** | Senior Full Stack Developer | Enterprise software, APIs, AI-assisted development |
 
+<br/>
+
 ---
 
 ## 🛰️ AI · Currently Learning
@@ -191,9 +199,11 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 | **Intermediate** | LLM & RAG | Embeddings, retrieval-augmented generation & AI APIs |
 | **Advanced** | Multi-Agent Systems | Autonomous agents, orchestration & production AI workflows |
 
+<br/>
+
 ---
 
-## 📫 Contact
+## 🌐 Contact
 
 <div align="center">
 
