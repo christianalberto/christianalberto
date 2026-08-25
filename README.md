@@ -22,9 +22,9 @@
 
 
 <p>
-  <a href="https://christianalberto.vercel.app"><img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Profile"/></a>
+  <a href="https://christianalberto.vercel.app"><img src="https://img.shields.io/badge/Website-1a1b26?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjN2FhMmY3IiBkPSJNMzUxLjkgMjgwbC0xOTAuOSAwYzIuOSA2NC41IDE3LjIgMTIzLjkgMzcuNSAxNjcuNCAxMS40IDI0LjUgMjMuNyA0MS44IDM1LjEgNTIuNCAxMS4yIDEwLjUgMTguOSAxMi4yIDIyLjkgMTIuMnMxMS43LTEuNyAyMi45LTEyLjJjMTEuNC0xMC42IDIzLjctMjggMzUuMS01Mi40IDIwLjMtNDMuNSAzNC42LTEwMi45IDM3LjUtMTY3LjR6TTE2MC45IDIzMmwxOTAuOSAwQzM0OSAxNjcuNSAzMzQuNyAxMDguMSAzMTQuNCA2NC42IDMwMyA0MC4yIDI5MC43IDIyLjggMjc5LjMgMTIuMiAyNjguMSAxLjcgMjYwLjQgMCAyNTYuNCAwcy0xMS43IDEuNy0yMi45IDEyLjJjLTExLjQgMTAuNi0yMy43IDI4LTM1LjEgNTIuNC0yMC4zIDQzLjUtMzQuNiAxMDIuOS0zNy41IDE2Ny40em0tNDggMEMxMTYuNCAxNDYuNCAxMzguNSA2Ni45IDE3MC44IDE0LjcgNzguNyA0Ny4zIDEwLjkgMTMxLjIgMS41IDIzMmwxMTEuNCAwek0xLjUgMjgwYzkuNCAxMDAuOCA3Ny4yIDE4NC43IDE2OS4zIDIxNy4zLTMyLjMtNTIuMi01NC40LTEzMS43LTU3LjktMjE3LjNMMS41IDI4MHptMzk4LjQgMGMtMy41IDg1LjYtMjUuNiAxNjUuMS01Ny45IDIxNy4zIDkyLjEtMzIuNyAxNTkuOS0xMTYuNSAxNjkuMy0yMTcuM2wtMTExLjQgMHptMTExLjQtNDhDNTAxLjkgMTMxLjIgNDM0LjEgNDcuMyAzNDIgMTQuNyAzNzQuMyA2Ni45IDM5Ni40IDE0Ni40IDM5OS45IDIzMmwxMTEuNCAweiIvPjwvc3ZnPg==" alt="Website"/></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/christalbertav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/christalbertav"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjN2FhMmY3IiBkPSJNNDE2IDMyTDMxLjkgMzJDMTQuMyAzMiAwIDQ2LjUgMCA2NC4zTDAgNDQ3LjdDMCA0NjUuNSAxNC4zIDQ4MCAzMS45IDQ4MEw0MTYgNDgwYzE3LjYgMCAzMi0xNC41IDMyLTMyLjNsMC0zODMuNEM0NDggNDYuNSA0MzMuNiAzMiA0MTYgMzJ6TTEzNS40IDQxNmwtNjYuNCAwIDAtMjEzLjggNjYuNSAwIDAgMjEzLjgtLjEgMHpNMTAyLjIgOTZhMzguNSAzOC41IDAgMSAxIDAgNzcgMzguNSAzOC41IDAgMSAxIDAtNzd6TTM4NC4zIDQxNmwtNjYuNCAwIDAtMTA0YzAtMjQuOC0uNS01Ni43LTM0LjUtNTYuNy0zNC42IDAtMzkuOSAyNy0zOS45IDU0LjlsMCAxMDUuOC02Ni40IDAgMC0yMTMuOCA2My43IDAgMCAyOS4yIC45IDBjOC45LTE2LjggMzAuNi0zNC41IDYyLjktMzQuNSA2Ny4yIDAgNzkuNyA0NC4zIDc5LjcgMTAxLjlsMCAxMTcuMnoiLz48L3N2Zz4=" alt="LinkedIn"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=christianalberto&label=Profile%20views&color=7AA2F7&style=for-the-badge" alt="Profile views"/>
@@ -46,98 +46,98 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 <table>
 <tbody>
 <tr>
-<th><font color="#7aa2f7">Languages</font></th>
+<th><font color="#7AA2F7">Languages</font></th>
 <td>
-  <img src="https://img.shields.io/badge/Java-1a1b26?style=for-the-badge&logo=openjdk&logoColor=7aa2f7" alt="Java"/>
-  <img src="https://img.shields.io/badge/TypeScript-1a1b26?style=for-the-badge&logo=typescript&logoColor=7aa2f7" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=7aa2f7" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Solidity-1a1b26?style=for-the-badge&logo=solidity&logoColor=7aa2f7" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Java-1a1b26?style=for-the-badge&logo=openjdk&logoColor=7AA2F7" alt="Java"/>
+  <img src="https://img.shields.io/badge/TypeScript-1a1b26?style=for-the-badge&logo=typescript&logoColor=7AA2F7" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=7AA2F7" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Solidity-1a1b26?style=for-the-badge&logo=solidity&logoColor=7AA2F7" alt="Solidity"/>
 </td>
 </tr>
 <tr>
-<th><font color="#7aa2f7">Backend</font></th>
+<th><font color="#7AA2F7">Backend</font></th>
 <td>
-  <img src="https://img.shields.io/badge/Spring_Boot-1a1b26?style=for-the-badge&logo=spring-boot&logoColor=7aa2f7" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Spring_WebFlux-1a1b26?style=for-the-badge&logo=spring&logoColor=7aa2f7" alt="Spring WebFlux"/>
-  <img src="https://img.shields.io/badge/Hibernate-1a1b26?style=for-the-badge&logo=hibernate&logoColor=7aa2f7" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/Node.js-1a1b26?style=for-the-badge&logo=nodedotjs&logoColor=7aa2f7" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-1a1b26?style=for-the-badge&logo=rabbitmq&logoColor=7aa2f7" alt="RabbitMQ"/>
-  <img src="https://img.shields.io/badge/Maven-1a1b26?style=for-the-badge&logo=apache-maven&logoColor=7aa2f7" alt="Maven"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-1a1b26?style=for-the-badge&logo=spring-boot&logoColor=7AA2F7" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_WebFlux-1a1b26?style=for-the-badge&logo=spring&logoColor=7AA2F7" alt="Spring WebFlux"/>
+  <img src="https://img.shields.io/badge/Hibernate-1a1b26?style=for-the-badge&logo=hibernate&logoColor=7AA2F7" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/Node.js-1a1b26?style=for-the-badge&logo=nodedotjs&logoColor=7AA2F7" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-1a1b26?style=for-the-badge&logo=rabbitmq&logoColor=7AA2F7" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/Maven-1a1b26?style=for-the-badge&logo=apache-maven&logoColor=7AA2F7" alt="Maven"/>
 </td>
 </tr>
 <tr>
-<th><font color="#7aa2f7">Frontend</font></th>
+<th><font color="#7AA2F7">Frontend</font></th>
 <td>
-  <img src="https://img.shields.io/badge/Angular-1a1b26?style=for-the-badge&logo=angular&logoColor=7aa2f7" alt="Angular"/>
-  <img src="https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=7aa2f7" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-1a1b26?style=for-the-badge&logo=nextdotjs&logoColor=7aa2f7" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Vite-1a1b26?style=for-the-badge&logo=vite&logoColor=7aa2f7" alt="Vite"/>
-  <img src="https://img.shields.io/badge/RxJS-1a1b26?style=for-the-badge&logo=reactivex&logoColor=7aa2f7" alt="RxJS"/>
+  <img src="https://img.shields.io/badge/Angular-1a1b26?style=for-the-badge&logo=angular&logoColor=7AA2F7" alt="Angular"/>
+  <img src="https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=7AA2F7" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-1a1b26?style=for-the-badge&logo=nextdotjs&logoColor=7AA2F7" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Vite-1a1b26?style=for-the-badge&logo=vite&logoColor=7AA2F7" alt="Vite"/>
+  <img src="https://img.shields.io/badge/RxJS-1a1b26?style=for-the-badge&logo=reactivex&logoColor=7AA2F7" alt="RxJS"/>
 </td>
 </tr>
 <tr>
-<th><font color="#7aa2f7">Databases</font></th>
+<th><font color="#7AA2F7">Databases</font></th>
 <td>
-  <img src="https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=7aa2f7" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Oracle-1a1b26?style=for-the-badge&logo=oracle&logoColor=7aa2f7" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/MySQL-1a1b26?style=for-the-badge&logo=mysql&logoColor=7aa2f7" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQL_Server-1a1b26?style=for-the-badge&logo=microsoft-sql-server&logoColor=7aa2f7" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/MongoDB-1a1b26?style=for-the-badge&logo=mongodb&logoColor=7aa2f7" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-1a1b26?style=for-the-badge&logo=redis&logoColor=7aa2f7" alt="Redis"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=7AA2F7" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Oracle-1a1b26?style=for-the-badge&logo=oracle&logoColor=7AA2F7" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/MySQL-1a1b26?style=for-the-badge&logo=mysql&logoColor=7AA2F7" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL_Server-1a1b26?style=for-the-badge&logo=microsoft-sql-server&logoColor=7AA2F7" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MongoDB-1a1b26?style=for-the-badge&logo=mongodb&logoColor=7AA2F7" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-1a1b26?style=for-the-badge&logo=redis&logoColor=7AA2F7" alt="Redis"/>
 </td>
 </tr>
 <tr>
-<th><font color="#7aa2f7">Cloud & DevOps</font></th>
+<th><font color="#7AA2F7">Cloud & DevOps</font></th>
 <td>
-  <img src="https://img.shields.io/badge/AWS-1a1b26?style=for-the-badge&logo=amazon-aws&logoColor=7aa2f7" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=7aa2f7" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-1a1b26?style=for-the-badge&logo=kubernetes&logoColor=7aa2f7" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Terraform-1a1b26?style=for-the-badge&logo=terraform&logoColor=7aa2f7" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Jenkins-1a1b26?style=for-the-badge&logo=jenkins&logoColor=7aa2f7" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Vercel-1a1b26?style=for-the-badge&logo=vercel&logoColor=7aa2f7" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Heroku-1a1b26?style=for-the-badge&logo=heroku&logoColor=7aa2f7" alt="Heroku"/>
-  <img src="https://img.shields.io/badge/Railway-1a1b26?style=for-the-badge&logo=railway&logoColor=7aa2f7" alt="Railway"/>
-  <img src="https://img.shields.io/badge/Datadog-1a1b26?style=for-the-badge&logo=datadog&logoColor=7aa2f7" alt="Datadog"/>
+  <img src="https://img.shields.io/badge/AWS-1a1b26?style=for-the-badge&logo=amazon-aws&logoColor=7AA2F7" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=7AA2F7" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-1a1b26?style=for-the-badge&logo=kubernetes&logoColor=7AA2F7" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Terraform-1a1b26?style=for-the-badge&logo=terraform&logoColor=7AA2F7" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Jenkins-1a1b26?style=for-the-badge&logo=jenkins&logoColor=7AA2F7" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Vercel-1a1b26?style=for-the-badge&logo=vercel&logoColor=7AA2F7" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Heroku-1a1b26?style=for-the-badge&logo=heroku&logoColor=7AA2F7" alt="Heroku"/>
+  <img src="https://img.shields.io/badge/Railway-1a1b26?style=for-the-badge&logo=railway&logoColor=7AA2F7" alt="Railway"/>
+  <img src="https://img.shields.io/badge/Datadog-1a1b26?style=for-the-badge&logo=datadog&logoColor=7AA2F7" alt="Datadog"/>
 </td>
 </tr>
 <tr>
-<th><font color="#7aa2f7">Security</font></th>
+<th><font color="#7AA2F7">Security</font></th>
 <td>
-  <img src="https://img.shields.io/badge/JWT-1a1b26?style=for-the-badge&logo=json-web-tokens&logoColor=7aa2f7" alt="JWT"/>
-  <img src="https://img.shields.io/badge/OAuth2-1a1b26?style=for-the-badge&logo=oauth&logoColor=7aa2f7" alt="OAuth2"/>
-  <img src="https://img.shields.io/badge/Spring_Security-1a1b26?style=for-the-badge&logo=springsecurity&logoColor=7aa2f7" alt="Spring Security"/>
-  <img src="https://img.shields.io/badge/Keycloak-1a1b26?style=for-the-badge&logo=keycloak&logoColor=7aa2f7" alt="Keycloak"/>
-  <img src="https://img.shields.io/badge/OWASP-1a1b26?style=for-the-badge&logo=owasp&logoColor=7aa2f7" alt="OWASP"/>
+  <img src="https://img.shields.io/badge/JWT-1a1b26?style=for-the-badge&logo=json-web-tokens&logoColor=7AA2F7" alt="JWT"/>
+  <img src="https://img.shields.io/badge/OAuth2-1a1b26?style=for-the-badge&logo=oauth&logoColor=7AA2F7" alt="OAuth2"/>
+  <img src="https://img.shields.io/badge/Spring_Security-1a1b26?style=for-the-badge&logo=springsecurity&logoColor=7AA2F7" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Keycloak-1a1b26?style=for-the-badge&logo=keycloak&logoColor=7AA2F7" alt="Keycloak"/>
+  <img src="https://img.shields.io/badge/OWASP-1a1b26?style=for-the-badge&logo=owasp&logoColor=7AA2F7" alt="OWASP"/>
 </td>
 </tr>
 <tr>
-<th><font color="#7aa2f7">Testing</font></th>
+<th><font color="#7AA2F7">Testing</font></th>
 <td>
-  <img src="https://img.shields.io/badge/JUnit-1a1b26?style=for-the-badge&logo=junit5&logoColor=7aa2f7" alt="JUnit"/>
-  <img src="https://img.shields.io/badge/Mockito-1a1b26?style=for-the-badge&logo=mockito&logoColor=7aa2f7" alt="Mockito"/>
-  <img src="https://img.shields.io/badge/Jest-1a1b26?style=for-the-badge&logo=jest&logoColor=7aa2f7" alt="Jest"/>
-  <img src="https://img.shields.io/badge/Cypress-1a1b26?style=for-the-badge&logo=cypress&logoColor=7aa2f7" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/JUnit-1a1b26?style=for-the-badge&logo=junit5&logoColor=7AA2F7" alt="JUnit"/>
+  <img src="https://img.shields.io/badge/Mockito-1a1b26?style=for-the-badge&logo=mockito&logoColor=7AA2F7" alt="Mockito"/>
+  <img src="https://img.shields.io/badge/Jest-1a1b26?style=for-the-badge&logo=jest&logoColor=7AA2F7" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Cypress-1a1b26?style=for-the-badge&logo=cypress&logoColor=7AA2F7" alt="Cypress"/>
 </td>
 </tr>
 <tr>
-<th><font color="#7aa2f7">Web3</font></th>
+<th><font color="#7AA2F7">Web3</font></th>
 <td>
-  <img src="https://img.shields.io/badge/Web3-1a1b26?style=for-the-badge&logo=web3dotjs&logoColor=7aa2f7" alt="Web3"/>
-  <img src="https://img.shields.io/badge/Solidity-1a1b26?style=for-the-badge&logo=solidity&logoColor=7aa2f7" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Ethereum-1a1b26?style=for-the-badge&logo=ethereum&logoColor=7aa2f7" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/WalletConnect-1a1b26?style=for-the-badge&logo=walletconnect&logoColor=7aa2f7" alt="WalletConnect"/>
-  <img src="https://img.shields.io/badge/OpenZeppelin-1a1b26?style=for-the-badge&logo=openzeppelin&logoColor=7aa2f7" alt="OpenZeppelin"/>
+  <img src="https://img.shields.io/badge/Web3-1a1b26?style=for-the-badge&logo=web3dotjs&logoColor=7AA2F7" alt="Web3"/>
+  <img src="https://img.shields.io/badge/Solidity-1a1b26?style=for-the-badge&logo=solidity&logoColor=7AA2F7" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Ethereum-1a1b26?style=for-the-badge&logo=ethereum&logoColor=7AA2F7" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/WalletConnect-1a1b26?style=for-the-badge&logo=walletconnect&logoColor=7AA2F7" alt="WalletConnect"/>
+  <img src="https://img.shields.io/badge/OpenZeppelin-1a1b26?style=for-the-badge&logo=openzeppelin&logoColor=7AA2F7" alt="OpenZeppelin"/>
 </td>
 </tr>
 <tr>
-<th><font color="#7aa2f7">Tools</font></th>
+<th><font color="#7AA2F7">Tools</font></th>
 <td>
-  <img src="https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=7aa2f7" alt="Git"/>
-  <img src="https://img.shields.io/badge/Bitbucket-1a1b26?style=for-the-badge&logo=bitbucket&logoColor=7aa2f7" alt="Bitbucket"/>
-  <img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/npm-1a1b26?style=for-the-badge&logo=npm&logoColor=7aa2f7" alt="npm"/>
-  <img src="https://img.shields.io/badge/Postman-1a1b26?style=for-the-badge&logo=postman&logoColor=7aa2f7" alt="Postman"/>
-  <img src="https://img.shields.io/badge/SonarQube-1a1b26?style=for-the-badge&logo=sonarqube&logoColor=7aa2f7" alt="SonarQube"/>
+  <img src="https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=7AA2F7" alt="Git"/>
+  <img src="https://img.shields.io/badge/Bitbucket-1a1b26?style=for-the-badge&logo=bitbucket&logoColor=7AA2F7" alt="Bitbucket"/>
+  <img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/npm-1a1b26?style=for-the-badge&logo=npm&logoColor=7AA2F7" alt="npm"/>
+  <img src="https://img.shields.io/badge/Postman-1a1b26?style=for-the-badge&logo=postman&logoColor=7AA2F7" alt="Postman"/>
+  <img src="https://img.shields.io/badge/SonarQube-1a1b26?style=for-the-badge&logo=sonarqube&logoColor=7AA2F7" alt="SonarQube"/>
 </td>
 </tr>
 </tbody>
@@ -211,14 +211,14 @@ I'm open to collaborating on **full stack development**, **backend APIs**, **fro
 
 <table align="center" border="0" cellpadding="8" cellspacing="0">
   <tr>
-    <td align="center" style="border: none; padding: 8px;">
-      <a href="https://wa.me/593987322612"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <td align="center" style="border: none; padding: 8px;">
+      <a href="https://christianalberto.vercel.app"><img src="https://img.shields.io/badge/Website-1a1b26?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjN2FhMmY3IiBkPSJNMzUxLjkgMjgwbC0xOTAuOSAwYzIuOSA2NC41IDE3LjIgMTIzLjkgMzcuNSAxNjcuNCAxMS40IDI0LjUgMjMuNyA0MS44IDM1LjEgNTIuNCAxMS4yIDEwLjUgMTguOSAxMi4yIDIyLjkgMTIuMnMxMS43LTEuNyAyMi45LTEyLjJjMTEuNC0xMC42IDIzLjctMjggMzUuMS01Mi40IDIwLjMtNDMuNSAzNC42LTEwMi45IDM3LjUtMTY3LjR6TTE2MC45IDIzMmwxOTAuOSAwQzM0OSAxNjcuNSAzMzQuNyAxMDguMSAzMTQuNCA2NC42IDMwMyA0MC4yIDI5MC43IDIyLjggMjc5LjMgMTIuMiAyNjguMSAxLjcgMjYwLjQgMCAyNTYuNCAwcy0xMS43IDEuNy0yMi45IDEyLjJjLTExLjQgMTAuNi0yMy43IDI4LTM1LjEgNTIuNC0yMC4zIDQzLjUtMzQuNiAxMDIuOS0zNy41IDE2Ny40em0tNDggMEMxMTYuNCAxNDYuNCAxMzguNSA2Ni45IDE3MC44IDE0LjcgNzguNyA0Ny4zIDEwLjkgMTMxLjIgMS41IDIzMmwxMTEuNCAwek0xLjUgMjgwYzkuNCAxMDAuOCA3Ny4yIDE4NC43IDE2OS4zIDIxNy4zLTMyLjMtNTIuMi01NC40LTEzMS43LTU3LjktMjE3LjNMMS41IDI4MHptMzk4LjQgMGMtMy41IDg1LjYtMjUuNiAxNjUuMS01Ny45IDIxNy4zIDkyLjEtMzIuNyAxNTkuOS0xMTYuNSAxNjkuMy0yMTcuM2wtMTExLjQgMHptMTExLjQtNDhDNTAxLjkgMTMxLjIgNDM0LjEgNDcuMyAzNDIgMTQuNyAzNzQuMyA2Ni45IDM5Ni40IDE0Ni40IDM5OS45IDIzMmwxMTEuNCAweiIvPjwvc3ZnPg==" alt="Website"/></a>
     </td>
     <td align="center" style="border: none; padding: 8px;">
-      <a href="https://www.linkedin.com/in/christalbertav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+      <a href="https://wa.me/593987322612"><img src="https://img.shields.io/badge/WhatsApp-1a1b26?style=for-the-badge&logo=whatsapp&logoColor=7aa2f7" alt="WhatsApp"/></a>
     </td>
     <td align="center" style="border: none; padding: 8px;">
-      <a href="https://christianalberto.vercel.app"><img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Profile"/></a>
+      <a href="https://www.linkedin.com/in/christalbertav"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjN2FhMmY3IiBkPSJNNDE2IDMyTDMxLjkgMzJDMTQuMyAzMiAwIDQ2LjUgMCA2NC4zTDAgNDQ3LjdDMCA0NjUuNSAxNC4zIDQ4MCAzMS45IDQ4MEw0MTYgNDgwYzE3LjYgMCAzMi0xNC41IDMyLTMyLjNsMC0zODMuNEM0NDggNDYuNSA0MzMuNiAzMiA0MTYgMzJ6TTEzNS40IDQxNmwtNjYuNCAwIDAtMjEzLjggNjYuNSAwIDAgMjEzLjgtLjEgMHpNMTAyLjIgOTZhMzguNSAzOC41IDAgMSAxIDAgNzcgMzguNSAzOC41IDAgMSAxIDAtNzd6TTM4NC4zIDQxNmwtNjYuNCAwIDAtMTA0YzAtMjQuOC0uNS01Ni43LTM0LjUtNTYuNy0zNC42IDAtMzkuOSAyNy0zOS45IDU0LjlsMCAxMDUuOC02Ni40IDAgMC0yMTMuOCA2My43IDAgMCAyOS4yIC45IDBjOC45LTE2LjggMzAuNi0zNC41IDYyLjktMzQuNSA2Ny4yIDAgNzkuNyA0NC4zIDc5LjcgMTAxLjlsMCAxMTcuMnoiLz48L3N2Zz4=" alt="LinkedIn"/></a>
     </td>
   </tr>
 </table>
@@ -227,6 +227,6 @@ I'm open to collaborating on **full stack development**, **backend APIs**, **fro
 
 ### *Building clean, scalable and maintainable software.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=414868&animation=twinkling" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=7AA2F7&animation=twinkling" alt="Footer"/>
 
 </div>
