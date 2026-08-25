@@ -90,7 +90,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 <th><font color="#7aa2f7">Security</font></th>
 <td>
   <img src="https://img.shields.io/badge/JWT-1a1b26?style=for-the-badge&logo=json-web-tokens&logoColor=7aa2f7" alt="JWT"/>
-  <img src="https://img.shields.io/badge/OAuth2-1a1b26?style=for-the-badge&logo=oauth&logoColor=7aa2f7" alt="OAuth2"/>
+  <img src="https://img.shields.io/badge/OWASP-1a1b26?style=for-the-badge&logo=owasp&logoColor=7aa2f7" alt="OWASP"/>
   <img src="https://img.shields.io/badge/Spring_Security-1a1b26?style=for-the-badge&logo=springsecurity&logoColor=7aa2f7" alt="Spring Security"/>
 </td>
 </tr>
