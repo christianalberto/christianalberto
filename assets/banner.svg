@@ -43,11 +43,11 @@
 
   <g transform="translate(860, 88)" opacity="0.95">
     <rect x="0" y="0" width="72" height="72" rx="14" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
-    <text x="36" y="44" text-anchor="middle" fill="#7AA2F7" font-family="monospace" font-size="22" font-weight="700">J</text>
+    <text x="36" y="44" text-anchor="middle" fill="#b88ceb" font-family="monospace" font-size="22" font-weight="700">J</text>
     <rect x="92" y="0" width="72" height="72" rx="14" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
-    <text x="128" y="44" text-anchor="middle" fill="#7AA2F7" font-family="monospace" font-size="22" font-weight="700">S</text>
+    <text x="128" y="44" text-anchor="middle" fill="#b88ceb" font-family="monospace" font-size="22" font-weight="700">S</text>
     <rect x="46" y="92" width="72" height="72" rx="14" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
-    <text x="82" y="136" text-anchor="middle" fill="#7AA2F7" font-family="monospace" font-size="20" font-weight="700">TS</text>
+    <text x="82" y="136" text-anchor="middle" fill="#b88ceb" font-family="monospace" font-size="20" font-weight="700">TS</text>
   </g>
 
   <rect x="0" y="316" width="1200" height="4" fill="url(#accent)"/>
