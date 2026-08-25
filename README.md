@@ -147,10 +147,6 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
     <img src="https://streak-stats.demolab.com/?user=christianalberto&theme=tokyonight&hide_border=true&border_radius=12&cache=false" alt="GitHub Streak" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianalberto&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
-</p>
-
 ---
 
 ## 💼 What I Do
