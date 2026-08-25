@@ -36,7 +36,7 @@
   <rect x="80" y="248" width="420" height="3" rx="1.5" fill="url(#accent)" filter="url(#softGlow)"/>
   <rect x="70" y="58" width="760" height="170" rx="18" fill="url(#glow)" opacity="0.25"/>
 
-  <text x="80" y="118" fill="#c0caf5" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="42" font-weight="700">Christian Alberto Domenech</text>
+  <text x="80" y="118" fill="#c0caf5" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="42" font-weight="700">Christian Alberto</text>
   <text x="80" y="162" fill="#9ece6a" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="1.2">SENIOR FULL STACK DEVELOPER</text>
   <text x="80" y="198" fill="#a9b1d6" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="500">Backend &amp; Frontend | Software Development | 18+ Years</text>
   <text x="80" y="228" fill="#565f89" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15">Java | Spring Boot | Angular | React | REST APIs &amp; Enterprise Applications</text>
