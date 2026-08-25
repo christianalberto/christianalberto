@@ -9,7 +9,7 @@
 <!-- Generador: https://readme-typing-svg.demolab.com/demo/ -->
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Senior+Full+Stack+Developer;18%2B+years+building+software;Java+%C2%B7+Spring+Boot+%C2%B7+Angular+%C2%B7+React;Backend+APIs+%26+frontend+applications;Clean+code+%C2%B7+scalable+software"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=7AA2F7&center=true&vCenter=true&width=1000&lines=18%2B+years+building+software;Java+%C2%B7+Spring+Boot+%C2%B7+Angular+%C2%B7+React;Backend+APIs+%26+frontend+applications;Clean+code+%C2%B7+scalable+software"
     alt="Typing animation"
   />
 </a>
@@ -18,18 +18,13 @@
 
 <img src="img/foto.png" alt="Christian Alberto Domenech" width="240" style="border-radius: 50%; border: 4px solid #7AA2F7;" />
 
-<br/><br/>
+<br/>
 
-# 👋 Hi, I'm Christian Alberto Domenech
-
-**Senior Full Stack Developer · Backend & Frontend · Software Engineer**
 
 <p>
   <a href="https://christianalberto.vercel.app"><img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Profile"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/christalbertav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="mailto:chdomavi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=christianalberto&label=Profile%20views&color=7AA2F7&style=for-the-badge" alt="Profile views"/>
@@ -40,15 +35,7 @@
 
 ## 👨‍💻 About Me
 
-Senior Full Stack Developer with **18+ years** building enterprise software for **banking, telecom, e-commerce and digital platforms**. I focus on **backend development**, **frontend applications**, **REST APIs** and **clean, maintainable code**.
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,solidity,angular,ts,react,nextjs,vite,postgres,mongodb,aws,docker,kubernetes,terraform,vercel,git,npm,bitbucket&perline=10" alt="Tech Stack"/>
-</p>
+Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** building enterprise software for **banking, telecom, e-commerce and digital platforms**. I focus on **backend development**, **frontend applications**, **REST APIs** and **clean, maintainable code**.
 
 ---
 
@@ -210,14 +197,6 @@ Senior Full Stack Developer with **18+ years** building enterprise software for 
 
 ---
 
-## 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quoteColor=c0caf5&authorColor=9ece6a&backgroundColor=24283b&symbolColor=7aa2f7&border=true" alt="Random Dev Quote" width="320"/>
-</p>
-
----
-
 ## 📫 Contact
 
 <div align="center">
@@ -227,13 +206,8 @@ I'm open to collaborating on **full stack development**, **backend APIs**, **fro
 <table align="center" border="0" cellpadding="8" cellspacing="0">
   <tr>
     <td align="center" style="border: none; padding: 8px;">
-      <a href="mailto:chdomavi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    </td>
-    <td align="center" style="border: none; padding: 8px;">
       <a href="https://wa.me/593987322612"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="border: none; padding: 8px;">
       <a href="https://www.linkedin.com/in/christalbertav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     </td>
