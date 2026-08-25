@@ -79,9 +79,9 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 <th><font color="#7aa2f7">Databases</font></th>
 <td>
   <img src="https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=7aa2f7" alt="PostgreSQL"/>
-  <img src="assets/badges/oracle.svg" alt="Oracle" height="28"/>
+  <img src="assets/oracle.svg" alt="Oracle" height="28"/>
   <img src="https://img.shields.io/badge/MySQL-1a1b26?style=for-the-badge&logo=mysql&logoColor=7aa2f7" alt="MySQL"/>
-  <img src="assets/badges/sqlserver.svg" alt="SQL Server" height="28"/>
+  <img src="assets/sqlserver.svg" alt="SQL Server" height="28"/>
   <img src="https://img.shields.io/badge/MongoDB-1a1b26?style=for-the-badge&logo=mongodb&logoColor=7aa2f7" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Redis-1a1b26?style=for-the-badge&logo=redis&logoColor=7aa2f7" alt="Redis"/>
 </td>
