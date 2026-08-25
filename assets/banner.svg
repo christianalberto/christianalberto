@@ -36,18 +36,18 @@
   <rect x="80" y="248" width="420" height="3" rx="1.5" fill="url(#accent)" filter="url(#softGlow)"/>
   <rect x="70" y="58" width="760" height="170" rx="18" fill="url(#glow)" opacity="0.25"/>
 
-  <text x="80" y="118" fill="#b88ceb" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="42" font-weight="700">Christian Alberto</text>
+  <text x="80" y="118" fill="#c0caf5" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="42" font-weight="700">Christian Alberto</text>
   <text x="80" y="162" fill="#7AA2F7" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="1.2">SENIOR FULL STACK DEVELOPER</text>
   <text x="80" y="198" fill="#a9b1d6" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="500">Backend &amp; Frontend | Software Development | 18+ Years</text>
   <text x="80" y="228" fill="#565f89" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15">Java | Spring Boot | Angular | React | REST APIs &amp; Enterprise Applications</text>
 
   <g transform="translate(860, 88)" opacity="0.95">
     <rect x="0" y="0" width="72" height="72" rx="14" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
-    <text x="36" y="44" text-anchor="middle" fill="#b88ceb" font-family="monospace" font-size="22" font-weight="700">J</text>
+    <text x="36" y="44" text-anchor="middle" fill="#a9b1d6" font-family="monospace" font-size="22" font-weight="700">J</text>
     <rect x="92" y="0" width="72" height="72" rx="14" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
-    <text x="128" y="44" text-anchor="middle" fill="#b88ceb" font-family="monospace" font-size="22" font-weight="700">S</text>
+    <text x="128" y="44" text-anchor="middle" fill="#a9b1d6" font-family="monospace" font-size="22" font-weight="700">S</text>
     <rect x="46" y="92" width="72" height="72" rx="14" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
-    <text x="82" y="136" text-anchor="middle" fill="#b88ceb" font-family="monospace" font-size="20" font-weight="700">TS</text>
+    <text x="82" y="136" text-anchor="middle" fill="#a9b1d6" font-family="monospace" font-size="20" font-weight="700">TS</text>
   </g>
 
   <rect x="0" y="316" width="1200" height="4" fill="url(#accent)"/>
