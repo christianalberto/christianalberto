@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/christalbertav"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjN2FhMmY3IiBkPSJNNDE2IDMyTDMxLjkgMzJDMTQuMyAzMiAwIDQ2LjUgMCA2NC4zTDAgNDQ3LjdDMCA0NjUuNSAxNC4zIDQ4MCAzMS45IDQ4MEw0MTYgNDgwYzE3LjYgMCAzMi0xNC41IDMyLTMyLjNsMC0zODMuNEM0NDggNDYuNSA0MzMuNiAzMiA0MTYgMzJ6TTEzNS40IDQxNmwtNjYuNCAwIDAtMjEzLjggNjYuNSAwIDAgMjEzLjgtLjEgMHpNMTAyLjIgOTZhMzguNSAzOC41IDAgMSAxIDAgNzcgMzguNSAzOC41IDAgMSAxIDAtNzd6TTM4NC4zIDQxNmwtNjYuNCAwIDAtMTA0YzAtMjQuOC0uNS01Ni43LTM0LjUtNTYuNy0zNC42IDAtMzkuOSAyNy0zOS45IDU0LjlsMCAxMDUuOC02Ni40IDAgMC0yMTMuOCA2My43IDAgMCAyOS4yIC45IDBjOC45LTE2LjggMzAuNi0zNC41IDYyLjktMzQuNSA2Ny4yIDAgNzkuNyA0NC4zIDc5LjcgMTAxLjlsMCAxMTcuMnoiLz48L3N2Zz4=" alt="LinkedIn"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=christianalberto&label=Profile%20views&color=7aa2f7&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=christianalberto&label=Profile%20views&color=7AA2F7&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
