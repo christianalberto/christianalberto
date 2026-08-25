@@ -51,18 +51,14 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
   <img src="https://img.shields.io/badge/Java-1a1b26?style=for-the-badge&logo=openjdk&logoColor=7aa2f7" alt="Java"/>
   <img src="https://img.shields.io/badge/TypeScript-1a1b26?style=for-the-badge&logo=typescript&logoColor=7aa2f7" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=7aa2f7" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Solidity-1a1b26?style=for-the-badge&logo=solidity&logoColor=7aa2f7" alt="Solidity"/>
 </td>
 </tr>
 <tr>
 <th><font color="#7aa2f7">Backend</font></th>
 <td>
   <img src="https://img.shields.io/badge/Spring_Boot-1a1b26?style=for-the-badge&logo=spring-boot&logoColor=7aa2f7" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Spring_WebFlux-1a1b26?style=for-the-badge&logo=spring&logoColor=7aa2f7" alt="Spring WebFlux"/>
   <img src="https://img.shields.io/badge/Hibernate-1a1b26?style=for-the-badge&logo=hibernate&logoColor=7aa2f7" alt="Hibernate"/>
   <img src="https://img.shields.io/badge/Node.js-1a1b26?style=for-the-badge&logo=nodedotjs&logoColor=7aa2f7" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-1a1b26?style=for-the-badge&logo=rabbitmq&logoColor=7aa2f7" alt="RabbitMQ"/>
-  <img src="https://img.shields.io/badge/Maven-1a1b26?style=for-the-badge&logo=apache-maven&logoColor=7aa2f7" alt="Maven"/>
 </td>
 </tr>
 <tr>
@@ -71,17 +67,13 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
   <img src="https://img.shields.io/badge/Angular-1a1b26?style=for-the-badge&logo=angular&logoColor=7aa2f7" alt="Angular"/>
   <img src="https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=7aa2f7" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-1a1b26?style=for-the-badge&logo=nextdotjs&logoColor=7aa2f7" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Vite-1a1b26?style=for-the-badge&logo=vite&logoColor=7aa2f7" alt="Vite"/>
-  <img src="https://img.shields.io/badge/RxJS-1a1b26?style=for-the-badge&logo=reactivex&logoColor=7aa2f7" alt="RxJS"/>
 </td>
 </tr>
 <tr>
 <th><font color="#7aa2f7">Databases</font></th>
 <td>
   <img src="https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=7aa2f7" alt="PostgreSQL"/>
-  <img src="assets/oracle.svg" alt="Oracle" height="28"/>
   <img src="https://img.shields.io/badge/MySQL-1a1b26?style=for-the-badge&logo=mysql&logoColor=7aa2f7" alt="MySQL"/>
-  <img src="assets/sqlserver.svg" alt="SQL Server" height="28"/>
   <img src="https://img.shields.io/badge/MongoDB-1a1b26?style=for-the-badge&logo=mongodb&logoColor=7aa2f7" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Redis-1a1b26?style=for-the-badge&logo=redis&logoColor=7aa2f7" alt="Redis"/>
 </td>
@@ -92,12 +84,6 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
   <img src="https://img.shields.io/badge/AWS-1a1b26?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48cGF0aCBmaWxsPSIjN2FhMmY3IiBkPSJNMTgwLjQgMjAzYy0uNyAyMi42IDEwLjYgMzIuNyAxMC45IDM5LS4xIDEuMy0uNiAyLjUtMS4zIDMuNnMtMS43IDItMi44IDIuNmwtMTIuOCA5Yy0xLjcgMS4yLTMuNiAxLjgtNS42IDEuOS0uNCAwLTguMiAxLjgtMjAuNS0yNS42LTcuNSA5LjQtMTcgMTYuOS0yNy45IDIycy0yMi43IDcuNy0zNC43IDcuNWMtMTYuMyAuOS02MC40LTkuMi01OC4xLTU2LjItMS42LTM4LjMgMzQuMS02Mi4xIDcwLjktNjAgNy4xIDAgMjEuNiAuNCA0NyA2LjNsMC0xNS42YzIuNy0yNi41LTE0LjctNDctNDQuOC00My45LTIuNCAwLTE5LjQtLjUtNDUuOCAxMC4xLTcuNCAzLjQtOC4zIDIuOC0xMC44IDIuOC03LjQgMC00LjQtMjEuNS0yLjktMjQuMiA1LjItNi40IDM1LjktMTguNCA2NS45LTE4LjIgMjAuMS0xLjggNDAuMSA0LjQgNTUuNyAxNy4zIDYuMyA3LjEgMTEuMiAxNS40IDE0LjIgMjQuNHM0LjIgMTguNSAzLjUgMjhsMCA2OS4zek05NCAyMzUuNGMzMi40LS41IDQ2LjItMjAgNDkuMy0zMC41IDIuNS0xMC4xIDIuMS0xNi40IDIuMS0yNy40LTkuNy0yLjMtMjMuNi00LjktMzkuNi00LjktMTUuMi0xLjEtNDIuOCA1LjYtNDEuNyAzMi4zLTEuMiAxNi44IDExLjEgMzEuNCAzMCAzMC41em0xNzAuOSAyMy4xYy03LjkgLjctMTEuNS00LjktMTIuNy0xMC40TDIwMi40IDgzLjRjLTEtMi44LTEuNi01LjYtMS45LTguNi0uMi0xLjIgLjEtMi40IC44LTMuNHMxLjgtMS42IDMtMS44Yy4yIDAtMi4xIDAgMjIuMiAwIDguOC0uOSAxMS42IDYgMTIuNiAxMC40TDI3NC45IDIyMC44IDMwOC4xIDgwYy41LTMuMiAyLjktMTEuMSAxMi44LTEwLjJsMTcuMiAwYzIuMi0uMiAxMS4xLS41IDEyLjcgMTAuNEwzODQuMSAyMjIuNyA0MjEgODAuMWMuNS0yLjIgMi43LTExLjQgMTIuNy0xMC40bDE5LjcgMGMuOS0uMSA2LjItLjggNS4zIDguNi0uNCAxLjggMy40LTEwLjctNTIuOCAxNjkuOS0xLjEgNS41LTQuOCAxMS4xLTEyLjcgMTAuNGwtMTguNyAwYy0xMC45IDEuMi0xMi41LTkuNy0xMi43LTEwLjdsLTMzLjItMTM3LjEtMzIuOCAxMzdjLS4yIDEuMS0xLjcgMTEuOS0xMi43IDEwLjdsLTE4LjMgMCAwIDB6bTI3My41IDUuNmMtNS45IDAtMzMuOS0uMy01Ny40LTEyLjMtMi4zLTEtNC4zLTIuNi01LjctNC44cy0yLjEtNC42LTIuMS03LjFsMC0xMC43YzAtOC41IDYuMi02LjkgOC44LTUuOSAxMCA0LjEgMTYuNSA3LjEgMjguOCA5LjYgMzYuNyA3LjUgNTIuOC0yLjMgNTYuNy00LjUgMTMuMi03LjggMTQuMi0yNS43IDUuMy0zNC45LTEwLjUtOC44LTE1LjUtOS4xLTUzLjEtMjEtNC42LTEuMy00My43LTEzLjYtNDMuOC01Mi40LS42LTI4LjIgMjUtNTYuMiA2OS41LTU2IDEyLjcgMCA0Ni40IDQuMSA1NS42IDE1LjYgMS40IDIuMSAyIDQuNiAxLjkgN2wwIDEwLjFjMCA0LjQtMS42IDYuNy00LjkgNi43LTcuNy0uOS0yMS40LTExLjItNDkuMi0xMC44LTYuOS0uNC0zOS45IC45LTM4LjQgMjUtLjQgMTkgMjYuNiAyNi4xIDI5LjcgMjYuOSAzNi41IDExIDQ4LjYgMTIuOCA2My4xIDI5LjYgMTcuMSAyMi4yIDcuOSA0OC4zIDQuMyA1NS40LTE5LjEgMzcuNS02OC40IDM0LjQtNjkuMyAzNC40em00MC4yIDEwNC45Yy03MCA1MS43LTE3MS43IDc5LjItMjU4LjUgNzkuMi0xMTcuMSAuOC0yMzAuMy00Mi4zLTMxNy4zLTEyMC43LTYuNS01LjktLjgtMTQgNy4yLTkuNSA5Ni41IDU1LjIgMjA1LjcgODQuMiAzMTYuOSA4NC4xIDgzLS40IDE2NS4xLTE3LjMgMjQxLjYtNDkuNSAxMS44LTUgMjEuOCA3LjggMTAuMSAxNi40em0yOS4yLTMzLjNjLTktMTEuNS01OS4zLTUuNC04MS44LTIuNy02LjggLjgtNy45LTUuMS0xLjgtOS41IDQwLjEtMjguMiAxMDUuOS0yMC4xIDExMy40LTEwLjYgNy41IDkuNS0yLjEgNzUuNC0zOS42IDEwNi45LTUuOCA0LjktMTEuMyAyLjMtOC43LTQuMSA4LjQtMjEuMyAyNy40LTY4LjUgMTguNC04MHoiLz48L3N2Zz4=" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=7aa2f7" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-1a1b26?style=for-the-badge&logo=kubernetes&logoColor=7aa2f7" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Terraform-1a1b26?style=for-the-badge&logo=terraform&logoColor=7aa2f7" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Jenkins-1a1b26?style=for-the-badge&logo=jenkins&logoColor=7aa2f7" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Vercel-1a1b26?style=for-the-badge&logo=vercel&logoColor=7aa2f7" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Heroku-1a1b26?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjN2FhMmY3IiBkPSJNMTAyLjEgMkgyNS45QzE5LjMgMiAxNCA3LjMgMTQgMTMuOXYxMDAuM2MwIDYuNiA1LjMgMTEuOSAxMS45IDExLjloNzYuM2M2LjYgMCAxMS45LTUuMyAxMS45LTExLjlWMTMuOUMxMTQgNy4zIDEwOC43IDIgMTAyLjEgMnpNMzcgMTA4LjdWODAuNWwxNC4xIDE0LjFMMzcgMTA4Ljd6bTUzIC4zSDc2LjlsLjEtLjJWNTkuNHMzLjEtMTEuOC0zOS43IDQuOGMtLjEuMi0uMi00NS43LS4yLTQ1LjdsMTMuOS0uMXYyOS40czM5LTE1LjQgMzkgMTEuN1YxMDl6bS01LjItNzNINzBjNS4zLTYgMTAuMi0xNyAxMC4yLTE3aDE1LjNzLTIuNiA3LTEwLjcgMTd6Ii8+PC9zdmc+" alt="Heroku"/>
-  <img src="https://img.shields.io/badge/Railway-1a1b26?style=for-the-badge&logo=railway&logoColor=7aa2f7" alt="Railway"/>
-  <img src="https://img.shields.io/badge/Datadog-1a1b26?style=for-the-badge&logo=datadog&logoColor=7aa2f7" alt="Datadog"/>
 </td>
 </tr>
 <tr>
@@ -106,15 +92,12 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
   <img src="https://img.shields.io/badge/JWT-1a1b26?style=for-the-badge&logo=json-web-tokens&logoColor=7aa2f7" alt="JWT"/>
   <img src="https://img.shields.io/badge/OAuth2-1a1b26?style=for-the-badge&logo=oauth&logoColor=7aa2f7" alt="OAuth2"/>
   <img src="https://img.shields.io/badge/Spring_Security-1a1b26?style=for-the-badge&logo=springsecurity&logoColor=7aa2f7" alt="Spring Security"/>
-  <img src="https://img.shields.io/badge/Keycloak-1a1b26?style=for-the-badge&logo=keycloak&logoColor=7aa2f7" alt="Keycloak"/>
-  <img src="https://img.shields.io/badge/OWASP-1a1b26?style=for-the-badge&logo=owasp&logoColor=7aa2f7" alt="OWASP"/>
 </td>
 </tr>
 <tr>
 <th><font color="#7aa2f7">Testing</font></th>
 <td>
   <img src="https://img.shields.io/badge/JUnit-1a1b26?style=for-the-badge&logo=junit5&logoColor=7aa2f7" alt="JUnit"/>
-  <img src="https://img.shields.io/badge/Mockito-1a1b26?style=for-the-badge&logo=mockito&logoColor=7aa2f7" alt="Mockito"/>
   <img src="https://img.shields.io/badge/Jest-1a1b26?style=for-the-badge&logo=jest&logoColor=7aa2f7" alt="Jest"/>
   <img src="https://img.shields.io/badge/Cypress-1a1b26?style=for-the-badge&logo=cypress&logoColor=7aa2f7" alt="Cypress"/>
 </td>
@@ -122,22 +105,9 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 <tr>
 <th><font color="#7aa2f7">Web3</font></th>
 <td>
-  <img src="https://img.shields.io/badge/Web3-1a1b26?style=for-the-badge&logo=web3dotjs&logoColor=7aa2f7" alt="Web3"/>
   <img src="https://img.shields.io/badge/Solidity-1a1b26?style=for-the-badge&logo=solidity&logoColor=7aa2f7" alt="Solidity"/>
   <img src="https://img.shields.io/badge/Ethereum-1a1b26?style=for-the-badge&logo=ethereum&logoColor=7aa2f7" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/WalletConnect-1a1b26?style=for-the-badge&logo=walletconnect&logoColor=7aa2f7" alt="WalletConnect"/>
   <img src="https://img.shields.io/badge/OpenZeppelin-1a1b26?style=for-the-badge&logo=openzeppelin&logoColor=7aa2f7" alt="OpenZeppelin"/>
-</td>
-</tr>
-<tr>
-<th><font color="#7aa2f7">Tools</font></th>
-<td>
-  <img src="https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=7aa2f7" alt="Git"/>
-  <img src="https://img.shields.io/badge/Bitbucket-1a1b26?style=for-the-badge&logo=bitbucket&logoColor=7aa2f7" alt="Bitbucket"/>
-  <img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/npm-1a1b26?style=for-the-badge&logo=npm&logoColor=7aa2f7" alt="npm"/>
-  <img src="https://img.shields.io/badge/Postman-1a1b26?style=for-the-badge&logo=postman&logoColor=7aa2f7" alt="Postman"/>
-  <img src="https://img.shields.io/badge/SonarQube-1a1b26?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjN2FhMmY3IiBkPSJNMTEzLjE5IDEyNS45MzhoLTcuMTZDMTA2LjAzIDY4LjI5MyA1OC40NjQgMjEuMzk2IDAgMjEuMzk2di03LjE2MWM2Mi40MTYgMCAxMTMuMTkgNTAuMTA2IDExMy4xOSAxMTEuNzAzWm00Ljk1Mi0zOC40NDFjLTguNTk4LTM2LjE1MS0zNy44OTgtNjYuMzYyLTc0LjYyMy03Ni45MDNsMS42NDctNS43MzVjMzguNzYzIDExLjEzMyA2OS43MDIgNDMuMDI3IDc4Ljc3OCA4MS4yNTdabTUuNTA0LTMzLjk0MmMtOC44NTQtMTkuMzA5LTIzLjk0NC0zNi4xNDYtNDIuNDgtNDcuNDExbDIuNDgyLTQuMDgyQzEwMi45OTIgMTMuODE5IDExOC43NCAzMS4zOTkgMTI4IDUxLjU1NlptMCAwIi8+PC9zdmc+" alt="SonarQube"/>
 </td>
 </tr>
 </tbody>
@@ -212,13 +182,13 @@ I'm open to collaborating on **full stack development**, **backend APIs**, **fro
 <table align="center" border="0" cellpadding="8" cellspacing="0">
   <tr>
     <td align="center" style="border: none; padding: 8px;">
-      <a href="https://christianalberto.vercel.app"><img src="https://img.shields.io/badge/Website-1a1b26?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjN2FhMmY3IiBkPSJNMzUxLjkgMjgwbC0xOTAuOSAwYzIuOSA2NC41IDE3LjIgMTIzLjkgMzcuNSAxNjcuNCAxMS40IDI0LjUgMjMuNyA0MS44IDM1LjEgNTIuNCAxMS4yIDEwLjUgMTguOSAxMi4yIDIyLjkgMTIuMnMxMS43LTEuNyAyMi45LTEyLjJjMTEuNC0xMC42IDIzLjctMjggMzUuMS01Mi40IDIwLjMtNDMuNSAzNC42LTEwMi45IDM3LjUtMTY3LjR6TTE2MC45IDIzMmwxOTAuOSAwQzM0OSAxNjcuNSAzMzQuNyAxMDguMSAzMTQuNCA2NC42IDMwMyA0MC4yIDI5MC43IDIyLjggMjc5LjMgMTIuMiAyNjguMSAxLjcgMjYwLjQgMCAyNTYuNCAwcy0xMS43IDEuNy0yMi45IDEyLjJjLTExLjQgMTAuNi0yMy43IDI4LTM1LjEgNTIuNC0yMC4zIDQzLjUtMzQuNiAxMDIuOS0zNy41IDE2Ny40em0tNDggMEMxMTYuNCAxNDYuNCAxMzguNSA2Ni45IDE3MC44IDE0LjcgNzguNyA0Ny4zIDEwLjkgMTMxLjIgMS41IDIzMmwxMTEuNCAwek0xLjUgMjgwYzkuNCAxMDAuOCA3Ny4yIDE4NC43IDE2OS4zIDIxNy4zLTMyLjMtNTIuMi01NC40LTEzMS43LTU3LjktMjE3LjNMMS41IDI4MHptMzk4LjQgMGMtMy41IDg1LjYtMjUuNiAxNjUuMS01Ny45IDIxNy4zIDkyLjEtMzIuNyAxNTkuOS0xMTYuNSAxNjkuMy0yMTcuM2wtMTExLjQgMHptMTExLjQtNDhDNTAxLjkgMTMxLjIgNDM0LjEgNDcuMyAzNDIgMTQuNyAzNzQuMyA2Ni45IDM5Ni40IDE0Ni40IDM5OS45IDIzMmwxMTEuNCAweiIvPjwvc3ZnPg==" alt="Website"/></a>
-    </td>
-    <td align="center" style="border: none; padding: 8px;">
       <a href="https://wa.me/593987322612"><img src="https://img.shields.io/badge/WhatsApp-1a1b26?style=for-the-badge&logo=whatsapp&logoColor=7aa2f7" alt="WhatsApp"/></a>
     </td>
     <td align="center" style="border: none; padding: 8px;">
       <a href="https://www.linkedin.com/in/christalbertav"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjN2FhMmY3IiBkPSJNNDE2IDMyTDMxLjkgMzJDMTQuMyAzMiAwIDQ2LjUgMCA2NC4zTDAgNDQ3LjdDMCA0NjUuNSAxNC4zIDQ4MCAzMS45IDQ4MEw0MTYgNDgwYzE3LjYgMCAzMi0xNC41IDMyLTMyLjNsMC0zODMuNEM0NDggNDYuNSA0MzMuNiAzMiA0MTYgMzJ6TTEzNS40IDQxNmwtNjYuNCAwIDAtMjEzLjggNjYuNSAwIDAgMjEzLjgtLjEgMHpNMTAyLjIgOTZhMzguNSAzOC41IDAgMSAxIDAgNzcgMzguNSAzOC41IDAgMSAxIDAtNzd6TTM4NC4zIDQxNmwtNjYuNCAwIDAtMTA0YzAtMjQuOC0uNS01Ni43LTM0LjUtNTYuNy0zNC42IDAtMzkuOSAyNy0zOS45IDU0LjlsMCAxMDUuOC02Ni40IDAgMC0yMTMuOCA2My43IDAgMCAyOS4yIC45IDBjOC45LTE2LjggMzAuNi0zNC41IDYyLjktMzQuNSA2Ny4yIDAgNzkuNyA0NC4zIDc5LjcgMTAxLjlsMCAxMTcuMnoiLz48L3N2Zz4=" alt="LinkedIn"/></a>
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <a href="https://christianalberto.vercel.app"><img src="https://img.shields.io/badge/Website-1a1b26?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjN2FhMmY3IiBkPSJNMzUxLjkgMjgwbC0xOTAuOSAwYzIuOSA2NC41IDE3LjIgMTIzLjkgMzcuNSAxNjcuNCAxMS40IDI0LjUgMjMuNyA0MS44IDM1LjEgNTIuNCAxMS4yIDEwLjUgMTguOSAxMi4yIDIyLjkgMTIuMnMxMS43LTEuNyAyMi45LTEyLjJjMTEuNC0xMC42IDIzLjctMjggMzUuMS01Mi40IDIwLjMtNDMuNSAzNC42LTEwMi45IDM3LjUtMTY3LjR6TTE2MC45IDIzMmwxOTAuOSAwQzM0OSAxNjcuNSAzMzQuNyAxMDguMSAzMTQuNCA2NC42IDMwMyA0MC4yIDI5MC43IDIyLjggMjc5LjMgMTIuMiAyNjguMSAxLjcgMjYwLjQgMCAyNTYuNCAwcy0xMS43IDEuNy0yMi45IDEyLjJjLTExLjQgMTAuNi0yMy43IDI4LTM1LjEgNTIuNC0yMC4zIDQzLjUtMzQuNiAxMDIuOS0zNy41IDE2Ny40em0tNDggMEMxMTYuNCAxNDYuNCAxMzguNSA2Ni45IDE3MC44IDE0LjcgNzguNyA0Ny4zIDEwLjkgMTMxLjIgMS41IDIzMmwxMTEuNCAwek0xLjUgMjgwYzkuNCAxMDAuOCA3Ny4yIDE4NC43IDE2OS4zIDIxNy4zLTMyLjMtNTIuMi01NC40LTEzMS43LTU3LjktMjE3LjNMMS41IDI4MHptMzk4LjQgMGMtMy41IDg1LjYtMjUuNiAxNjUuMS01Ny45IDIxNy4zIDkyLjEtMzIuNyAxNTkuOS0xMTYuNSAxNjkuMy0yMTcuM2wtMTExLjQgMHptMTExLjQtNDhDNTAxLjkgMTMxLjIgNDM0LjEgNDcuMyAzNDIgMTQuNyAzNzQuMyA2Ni45IDM5Ni40IDE0Ni40IDM5OS45IDIzMmwxMTEuNCAweiIvPjwvc3ZnPg==" alt="Website"/></a>
     </td>
   </tr>
 </table>
