@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="img/foto.png" alt="Christian Alberto Domenech" width="240" style="border-radius: 50%; border: 4px solid #7AA2F7;" />
+<img src="img/foto.png" alt="Christian Alberto Domenech" width="340" />
 
 <br/>
 
