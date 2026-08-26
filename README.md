@@ -125,33 +125,15 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 ## <img src="https://api.iconify.design/tabler:briefcase.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> What I Do
 
-| Area | Focus | Key stack |
-|:-----|:------|:----------|
-| **<img src="https://api.iconify.design/tabler:coffee.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Backend Engineering** | Microservices, REST APIs, business logic, persistence and async processing with message queues. Scalable backend services built on Java/Spring and Node.js. | Java · Spring Boot · WebFlux · Hibernate · RabbitMQ · Node.js |
-| **<img src="https://api.iconify.design/tabler:bolt.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Frontend Development** | Modern web applications — SPAs, SSR and hybrid apps — with Angular, React and Next.js. Component architecture, TypeScript and performance-focused UIs. | Angular · React · Next.js · TypeScript |
-| **<img src="https://api.iconify.design/tabler:cloud.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Cloud & DevOps** | Cloud-native deployment, containers, orchestration, IaC, CI/CD pipelines and observability. | AWS · Docker · Kubernetes · Terraform · Jenkins · Vercel · Heroku · Railway |
-| **<img src="https://api.iconify.design/tabler:database.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Databases & Caching** | Relational and NoSQL data layers, migrations and high-performance reads with caching. | PostgreSQL · Oracle · MySQL · SQL Server · MongoDB · Redis |
-| **<img src="https://api.iconify.design/tabler:shield-lock.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Security** | Secure enterprise APIs: authentication, authorization, identity management and OWASP-aligned design. | JWT · OAuth2 · Spring Security · Keycloak · OWASP |
-| **<img src="https://api.iconify.design/tabler:link.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Web3 & Blockchain** | Smart contracts, wallet integrations and secure dApp backends. | Solidity · Ethereum · WalletConnect · OpenZeppelin |
-| **<img src="https://api.iconify.design/tabler:flask.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Testing & Quality** | Unit, integration and E2E testing; API validation and code quality gates. | JUnit · Mockito · Jest · Cypress · Postman · SonarQube |
-
-<br/>
-
----
-
-## <img src="https://api.iconify.design/tabler:timeline.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> Career Timeline
-
-<div align="center">
-  <img src="assets/timeline.svg" alt="Professional Journey · 2007 to Now" width="100%"/>
-</div>
-
-| Period | Role | Focus |
-|:------:|:-----|:------|
-| **2007–2012** | Software Developer → Backend Developer | Java, enterprise apps, banking systems |
-| **2012–2016** | Java Backend Developer | REST APIs, Spring, Oracle/PostgreSQL |
-| **2016–2020** | Full Stack Developer | Backend + frontend, Angular, microservices |
-| **2020–2024** | Senior Full Stack Developer | Java, Spring Boot, React, Node.js, MongoDB |
-| **2024–Now** | Senior Full Stack Developer | Enterprise software, APIs, AI-assisted development |
+| Area | Focus |
+|:-----|:------|
+| **<img src="https://api.iconify.design/tabler:coffee.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Backend Engineering** | Microservices, REST APIs, business logic, persistence and async processing with message queues. Scalable backend services built on Java/Spring and Node.js. |
+| **<img src="https://api.iconify.design/tabler:bolt.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Frontend Development** | Modern web applications — SPAs, SSR and hybrid apps — with Angular, React and Next.js. Component architecture, TypeScript and performance-focused UIs. |
+| **<img src="https://api.iconify.design/tabler:cloud.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Cloud & DevOps** | Cloud-native deployment, containers, orchestration, IaC, CI/CD pipelines and observability. |
+| **<img src="https://api.iconify.design/tabler:database.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Databases & Caching** | Relational and NoSQL data layers, migrations and high-performance reads with caching. |
+| **<img src="https://api.iconify.design/tabler:shield-lock.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Security** | Secure enterprise APIs: authentication, authorization, identity management and OWASP-aligned design. |
+| **<img src="https://api.iconify.design/tabler:link.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Web3 & Blockchain** | Smart contracts, wallet integrations and secure dApp backends. |
+| **<img src="https://api.iconify.design/tabler:flask.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Testing & Quality** | Unit, integration and E2E testing; API validation and code quality gates. |
 
 <br/>
 
