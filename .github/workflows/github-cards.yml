@@ -1,0 +1,132 @@
+name: Update GitHub Cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Sharp
+        run: npm install --no-save --package-lock=false sharp
+
+      - name: Download GitHub rank
+        run: |
+          curl --fail --location --retry 3 \
+            "https://github-stats-extended.vercel.app/api?username=christianalberto&rank_icon=percentile&hide=stars,commits,prs,issues,contribs&hide_title=true&hide_border=true&bg_color=00000000" \
+            -o rank.svg
+
+      - name: Extract rank percentage
+        run: |
+          node <<'EOF'
+          const fs = require("fs");
+          const svg = fs.readFileSync("rank.svg", "utf8");
+          const match = svg.match(
+            /data-testid="percentile-rank-value"[\s\S]*?>\s*([\d.]+)%\s*<\/text>/
+          );
+
+          if (!match) {
+            throw new Error("Could not find percentile in rank.svg");
+          }
+
+          const percentage = Number.parseFloat(match[1]);
+          if (Number.isNaN(percentage) || percentage < 0 || percentage > 100) {
+            throw new Error(`Invalid percentage extracted: ${percentage}`);
+          }
+
+          fs.writeFileSync("rank-percentage.txt", percentage.toString());
+          console.log(`GitHub rank percentage: ${percentage}%`);
+          EOF
+
+      - name: Create Tokyo Night rank badge
+        run: |
+          node <<'EOF'
+          const fs = require("fs");
+          const percentage = Number.parseFloat(
+            fs.readFileSync("rank-percentage.txt", "utf8").trim()
+          );
+          const size = 125;
+          const center = size / 2;
+          const radius = 55;
+          const circumference = 2 * Math.PI * radius;
+
+          const svg = `
+          <svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 ${size} ${size}" fill="none">
+            <circle cx="${center}" cy="${center}" r="${radius}" stroke="#414868" stroke-width="10"/>
+            <circle cx="${center}" cy="${center}" r="${radius}" stroke="#7aa2f7" stroke-width="10"
+              stroke-linecap="round"
+              stroke-dasharray="${circumference * ((100 - percentage) / 100)} ${circumference}"
+              transform="rotate(-90 ${center} ${center})"/>
+            <text x="${center}" y="${center - 10}" text-anchor="middle" dominant-baseline="middle"
+              font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="20" font-weight="700" fill="#a9b1d6">Top</text>
+            <text x="${center}" y="${center + 10}" text-anchor="middle" dominant-baseline="middle"
+              font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="23" font-weight="700" fill="#c0caf5">${percentage}%</text>
+          </svg>`;
+
+          fs.writeFileSync("rank.svg", svg);
+          EOF
+
+      - name: Download Tokyo Night insights
+        run: |
+          curl --fail --location --retry 3 \
+            "https://yourinsights.vercel.app/api/insight?username=christianalberto&theme=tokyonight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" \
+            -o insights.svg
+
+      - name: Create GitHub cards image
+        run: |
+          node <<'EOF'
+          const sharp = require("sharp");
+
+          async function main() {
+            const scale = 3;
+            const rankSize = 80;
+            const rankImage = await sharp("rank.svg", { density: 300 })
+              .resize({ width: rankSize * scale, height: rankSize * scale })
+              .png({ compressionLevel: 9 })
+              .toBuffer();
+
+            const insightsImage = await sharp("insights.svg", { density: 300 })
+              .png({ compressionLevel: 9 })
+              .toBuffer();
+
+            await sharp(insightsImage)
+              .composite([{ input: rankImage, left: 30 * scale, top: 30 * scale }])
+              .png({ compressionLevel: 9 })
+              .toFile("profile/github-cards.png");
+
+            const metadata = await sharp("profile/github-cards.png").metadata();
+            console.log(`Created profile/github-cards.png: ${metadata.width}x${metadata.height}`);
+          }
+
+          main().catch((error) => {
+            console.error(error);
+            process.exit(1);
+          });
+          EOF
+
+      - name: Commit updated card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/github-cards.png
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update GitHub profile cards"
+            git push
+          fi
