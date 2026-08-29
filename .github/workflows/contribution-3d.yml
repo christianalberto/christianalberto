@@ -65,7 +65,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          sed -i -E "s|(profile/profile-gitblock\\.svg)(\\?v=[0-9]+)?|\\1?v=${{ github.run_number }}|g" README.md
           git add profile/profile-gitblock.svg
+          git add README.md
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
