@@ -1,6 +1,8 @@
 name: Update 3D Contributions
 
 on:
+  push:
+    branches: ["main"]
   workflow_dispatch:
   schedule:
     - cron: "30 21 * * *"
