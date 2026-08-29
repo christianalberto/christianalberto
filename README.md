@@ -123,6 +123,11 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 ---
 
+<details>
+<summary><strong>View full statistics</strong></summary>
+
+<br/>
+
 <p align="center">
   <img src="./profile/github-cards.png" alt="GitHub Statistics" width="100%" />
 </p>
@@ -130,6 +135,8 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 <p align="center">
   <img src="./profile/profile-gitblock.svg" alt="3D Contribution Graph" width="100%" />
 </p>
+
+</details>
 
 ---
 
