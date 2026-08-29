@@ -123,6 +123,16 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 ---
 
+<p align="center">
+  <img src="./profile/github-cards.png" alt="GitHub Statistics" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile/profile-gitblock.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
+---
+
 ## <img src="https://api.iconify.design/tabler:briefcase.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> What I Do
 
 | Area | Focus |
