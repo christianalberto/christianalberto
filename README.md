@@ -118,7 +118,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 ---
 
 <p align="center">
-    <img src="./profile/streak.svg?v=8" alt="GitHub Streak" height="170"/>
+    <img src="./profile/streak.svg?v=9" alt="GitHub Streak" height="170"/>
 </p>
 
 ---
