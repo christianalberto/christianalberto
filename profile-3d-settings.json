@@ -3,15 +3,15 @@
   "fileName": "profile-gitblock.svg",
   "backgroundColor": "#1a1b26",
   "foregroundColor": "#c0caf5",
-  "strongColor": "#7aa2f7",
-  "weakColor": "#414868",
-  "radarColor": "#bb9af7",
+  "strongColor": "#70A5FD",
+  "weakColor": "#565F89",
+  "radarColor": "#BF91F3",
   "growingAnimation": true,
   "contribPatterns": [
     {
       "top": {
-        "backgroundColor": "#24283b",
-        "foregroundColor": "#414868",
+        "backgroundColor": "#24283B",
+        "foregroundColor": "#565F89",
         "width": 32,
         "bitmap": [
           "0x00000000",
@@ -77,8 +77,8 @@
     },
     {
       "top": {
-        "backgroundColor": "#24283b",
-        "foregroundColor": "#565f89",
+        "backgroundColor": "#2B2F4A",
+        "foregroundColor": "#70A5FD",
         "width": 32,
         "bitmap": [
           "0x00000000",
@@ -144,8 +144,8 @@
     },
     {
       "top": {
-        "backgroundColor": "#243b63",
-        "foregroundColor": "#7aa2f7",
+        "backgroundColor": "#284E61",
+        "foregroundColor": "#38BDAE",
         "width": 32,
         "bitmap": [
           "0x00000000",
@@ -211,8 +211,8 @@
     },
     {
       "top": {
-        "backgroundColor": "#1d4052",
-        "foregroundColor": "#7dcfff",
+        "backgroundColor": "#493866",
+        "foregroundColor": "#BF91F3",
         "width": 32,
         "bitmap": [
           "0x00000000",
@@ -278,8 +278,8 @@
     },
     {
       "top": {
-        "backgroundColor": "#3d2f5e",
-        "foregroundColor": "#bb9af7",
+        "backgroundColor": "#355649",
+        "foregroundColor": "#9ECE6A",
         "width": 32,
         "bitmap": [
           "0x00000000",
@@ -345,8 +345,8 @@
     },
     {
       "top": {
-        "backgroundColor": "#2c4a3a",
-        "foregroundColor": "#9ece6a",
+        "backgroundColor": "#66434A",
+        "foregroundColor": "#F7768E",
         "width": 32,
         "bitmap": [
           "0x00000000",

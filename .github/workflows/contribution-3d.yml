@@ -23,74 +23,11 @@ jobs:
           USERNAME: christianalberto
           SETTING_JSON: ./profile-3d-settings.json
 
-      - name: Download approved decorations
-        run: |
-          mkdir -p .profile-visual-assets
-          curl --fail --location --retry 3 \
-            "https://raw.githubusercontent.com/shaaravraghu/shaaravraghu/main/DP.png" \
-            -o .profile-visual-assets/DP.png
-          curl --fail --location --retry 3 \
-            "https://raw.githubusercontent.com/shaaravraghu/shaaravraghu/main/Dino.png" \
-            -o .profile-visual-assets/Dino.png
-
-      - name: Embed approved decorations
-        run: |
-          python3 - <<'PY'
-          from base64 import b64encode
-          from pathlib import Path
-          import mimetypes
-
-          svg_file = Path("profile-3d-contrib/profile-gitblock.svg")
-          if not svg_file.exists():
-              raise FileNotFoundError(f"Could not find {svg_file}")
-
-          images = [
-              {
-                  "file": Path(".profile-visual-assets/DP.png"),
-                  "x": 0,
-                  "y": 450,
-                  "width": 400,
-                  "height": 400,
-              },
-              {
-                  "file": Path(".profile-visual-assets/Dino.png"),
-                  "x": 410,
-                  "y": 660,
-                  "width": 175,
-                  "height": 175,
-              },
-          ]
-
-          elements = []
-          for item in images:
-              if not item["file"].exists():
-                  raise FileNotFoundError(f"Image not found: {item['file']}")
-
-              mime_type = mimetypes.guess_type(item["file"].name)[0]
-              if not mime_type:
-                  raise ValueError(f"Unsupported image format: {item['file']}")
-
-              encoded = b64encode(item["file"].read_bytes()).decode("ascii")
-              elements.append(
-                  f'<image x="{item["x"]}" y="{item["y"]}" '
-                  f'width="{item["width"]}" height="{item["height"]}" '
-                  f'preserveAspectRatio="xMidYMid meet" '
-                  f'href="data:{mime_type};base64,{encoded}" />'
-              )
-
-          svg = svg_file.read_text(encoding="utf-8")
-          if "</svg>" not in svg:
-              raise RuntimeError("Generated SVG has no closing </svg>.")
-
-          svg = svg.replace("</svg>", "\n".join(elements) + "\n</svg>", 1)
-          svg_file.write_text(svg, encoding="utf-8")
-          PY
-
       - name: Move generated graph into profile
         run: |
           mkdir -p profile
           mv profile-3d-contrib/profile-gitblock.svg profile/profile-gitblock.svg
-          rm -rf profile-3d-contrib .profile-visual-assets
+          rm -rf profile-3d-contrib
 
       - name: Commit updated graph
         run: |

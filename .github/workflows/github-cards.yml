@@ -86,6 +86,34 @@ jobs:
             "https://yourinsights.vercel.app/api/insight?username=christianalberto&theme=tokyonight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" \
             -o insights.svg
 
+      - name: Match streak palette
+        run: |
+          node <<'EOF'
+          const fs = require("fs");
+          let svg = fs.readFileSync("insights.svg", "utf8");
+
+          // Keep the cards and streak visually consistent.
+          const palette = {
+            "#1a1b26": "#1A1B27",
+            "#bb9af7": "#BF91F3",
+            "#9ece6a": "#70A5FD",
+            "#565f89": "#70A5FD",
+            "#ff6b35": "#70A5FD",
+            "#a9b1d6": "#70A5FD",
+            "#9ca3af": "#70A5FD",
+            "#34d399": "#38BDAE",
+            "#a78bfa": "#BF91F3",
+            "#f472b6": "#BF91F3",
+            "#60a5fa": "#70A5FD"
+          };
+
+          for (const [source, target] of Object.entries(palette)) {
+            svg = svg.replace(new RegExp(source, "gi"), target);
+          }
+
+          fs.writeFileSync("insights.svg", svg);
+          EOF
+
       - name: Create GitHub cards image
         run: |
           node <<'EOF'
