@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: "30 21 * * *"
 
+concurrency:
+  group: christianalberto-profile-updates
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -63,7 +67,18 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
-          else
-            git commit -m "Update 3D contribution graph"
-            git push
+            exit 0
           fi
+
+          git commit -m "Update 3D contribution graph"
+          git pull --rebase origin main
+
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            git pull --rebase origin main
+          done
+
+          echo "Could not push after 3 attempts."
+          exit 1

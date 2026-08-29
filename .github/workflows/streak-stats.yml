@@ -8,6 +8,10 @@ on:
       - ".github/workflows/streak-stats.yml"
   workflow_dispatch: # Run manually from the Actions tab
 
+concurrency:
+  group: christianalberto-profile-updates
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -44,5 +48,20 @@ jobs:
           git config user.email "51129408+christianalberto@users.noreply.github.com"
           mkdir -p profile
           git add profile/streak.svg profile/streak-web.svg README.md
-          git commit -m "Update streak stats" || exit 0
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update streak stats"
+          git pull --rebase origin main
+
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            git pull --rebase origin main
+          done
+
+          echo "Could not push after 3 attempts."
+          exit 1
