@@ -134,7 +134,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 
 <p align="center">
-  <img src="./profile/profile-gitblock.svg?v=17" alt="3D Contribution Graph" width="100%" />
+  <img src="./profile/profile-gitblock.svg?v=18" alt="3D Contribution Graph" width="100%" />
 </p>
 
 </details>
