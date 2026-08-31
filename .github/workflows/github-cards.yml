@@ -33,7 +33,7 @@ jobs:
       - name: Download Tokyo Night insights
         run: |
           curl --fail --location --retry 3 \
-            "https://yourinsights.vercel.app/api/insight?username=christianalberto&theme=tokyonight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" \
+            "https://github-profiles-insights.vercel.app/api/insight?username=christianalberto&theme=tokyonight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" \
             -o insights.svg
 
       - name: Match streak palette
