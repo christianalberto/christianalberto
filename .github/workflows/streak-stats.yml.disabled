@@ -1,3 +1,6 @@
+# ARCHIVED: streak cards are now generated dynamically by GitHub Insights.
+# The .disabled extension prevents GitHub Actions from executing this workflow.
+
 name: Update streak stats
 
 on:
