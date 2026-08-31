@@ -5,7 +5,7 @@ on:
     branches: ["main"]
   workflow_dispatch:
   schedule:
-    - cron: "30 21 * * *"
+    - cron: "0 */12 * * *"
 
 concurrency:
   group: christianalberto-profile-updates
