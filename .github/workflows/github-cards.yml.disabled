@@ -1,3 +1,6 @@
+# ARCHIVED: replaced by the dynamic card URL in README.md.
+# The .disabled extension prevents GitHub Actions from executing this workflow.
+
 name: Update GitHub Cards
 
 on:
@@ -42,7 +45,6 @@ jobs:
           const fs = require("fs");
           let svg = fs.readFileSync("insights.svg", "utf8");
 
-          // Keep the cards and streak visually consistent.
           const palette = {
             "#1a1b26": "#1A1B27",
             "#bb9af7": "#BF91F3",
