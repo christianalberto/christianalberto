@@ -25,7 +25,7 @@ jobs:
       - name: Generate Tokyo Night contribution graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.STREAK_STATS_TOKEN }}
           USERNAME: christianalberto
           SETTING_JSON: ./profile-3d-settings.json
 

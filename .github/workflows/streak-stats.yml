@@ -26,7 +26,7 @@ jobs:
         with:
           options: user=christianalberto&theme=tokyonight&hide_border=true&border_radius=12&disable_animations=true&locale=en
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STREAK_STATS_TOKEN }}
 
       # Portfolio web: amber / transparent void
       - name: Generate streak (web)
@@ -34,7 +34,7 @@ jobs:
         with:
           options: user=christianalberto&hide_border=true&border_radius=12&disable_animations=true&locale=en&background=00000000&stroke=232544&ring=FF9E5E&fire=FF7A45&currStreakNum=ECEEFB&sideNums=ECEEFB&currStreakLabel=FF9E5E&sideLabels=A9AFD0&dates=6F76A0
           path: profile/streak-web.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STREAK_STATS_TOKEN }}
 
       # Bust GitHub Camo cache on the profile README (cache=false was demolab-only)
       - name: Refresh README cache buster
