@@ -1,0 +1,58 @@
+name: Update streak stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+concurrency:
+  group: christianalberto-profile-updates
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download Aurora Night streak card
+        run: |
+          mkdir -p profile
+          curl --fail --location --retry 3 \
+            "https://github-profiles-insights.vercel.app/api/insight?username=christianalberto&card=streak&theme=aurora_night" \
+            -o profile/streak.svg
+
+      - name: Refresh README cache buster
+        run: |
+          sed -i -E "s|(profile/streak\\.svg)(\\?v=[0-9]+)?|\\1?v=${{ github.run_number }}|g" README.md
+
+      - name: Commit streak stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg README.md
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update streak stats"
+          git pull --rebase origin main
+
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            git pull --rebase origin main
+          done
+
+          echo "Could not push after 3 attempts."
+          exit 1
