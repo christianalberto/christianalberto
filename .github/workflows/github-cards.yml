@@ -33,7 +33,7 @@ jobs:
       - name: Download Aurora Night insights
         run: |
           curl --fail --location --retry 3 \
-            "https://github-profiles-insights.vercel.app/api/insight?username=christianalberto&theme=aurora_night&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" \
+            "https://github-profiles-insights.vercel.app/api/insight?username=christianalberto&theme=aurora_night&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false&cache=false" \
             -o insights.svg
 
       - name: Create GitHub cards image
