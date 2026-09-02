@@ -26,7 +26,7 @@ jobs:
         run: |
           mkdir -p profile
           curl --fail --location --retry 3 \
-            "https://github-profiles-insights.vercel.app/api/insight?username=christianalberto&card=streak&theme=aurora_night" \
+            "https://github-profiles-insights.vercel.app/api/insight?username=christianalberto&card=streak&theme=aurora_night&cache=false" \
             -o profile/streak.svg
 
       - name: Refresh README cache buster
