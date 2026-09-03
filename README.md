@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- 🎨 BANNER SVG · TOKYO NIGHT -->
-<img src="assets/banner.svg" alt="Christian Alberto Domenech — Senior Full Stack Developer" width="100%" />
+<!-- ðŸŽ¨ BANNER SVG Â· TOKYO NIGHT -->
+<img src="assets/banner.svg" alt="Christian Alberto Domenech â€” Senior Full Stack Developer" width="100%" />
 
 <br/><br/>
 
-<!-- ⌨️ TYPING ANIMATION · líneas cortas + width amplio = sin recorte -->
+<!-- âŒ¨ï¸ TYPING ANIMATION Â· lÃ­neas cortas + width amplio = sin recorte -->
 <!-- Generador: https://readme-typing-svg.demolab.com/demo/ -->
 <a href="https://git.io/typing-svg">
   <img
@@ -118,7 +118,11 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 ---
 
 <p align="center">
+<<<<<<< Updated upstream
  <img src="./profile/github-cards.png?v=24" alt="GitHub Statistics" width="100%" />
+=======
+ <img src="./profile/github-cards.png?v=20260901150724" alt="GitHub Statistics" width="100%" />
+>>>>>>> Stashed changes
 </p>
 
 <p>Made with https://github-profiles-insights.vercel.app/</p>
@@ -131,11 +135,19 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 <br/>
 
 <p align="center">
+<<<<<<< Updated upstream
   <img src="./profile/streak.svg?v=39" alt="GitHub Streak" width="500" />
 </p>
 
 <p align="center">
   <img src="./profile/profile-gitblock.svg?v=34" alt="3D Contribution Graph" width="100%" />
+=======
+  <img src="./profile/streak.svg?v=20260901150724" alt="GitHub Streak" width="500" />
+</p>
+
+<p align="center">
+  <img src="./profile/profile-gitblock.svg?v=20260901150724" alt="3D Contribution Graph" width="100%" />
+>>>>>>> Stashed changes
 </p>
 
 </details>
@@ -147,7 +159,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 | Area | Focus |
 |:-----|:------|
 | **<img src="https://api.iconify.design/tabler:coffee.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Backend Engineering** | Microservices, REST APIs, business logic, persistence and async processing with message queues. Scalable backend services built on Java/Spring and Node.js. |
-| **<img src="https://api.iconify.design/tabler:bolt.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Frontend Development** | Modern web applications — SPAs, SSR and hybrid apps — with Angular, React and Next.js. Component architecture, TypeScript and performance-focused UIs. |
+| **<img src="https://api.iconify.design/tabler:bolt.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Frontend Development** | Modern web applications â€” SPAs, SSR and hybrid apps â€” with Angular, React and Next.js. Component architecture, TypeScript and performance-focused UIs. |
 | **<img src="https://api.iconify.design/tabler:cloud.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Cloud & DevOps** | Cloud-native deployment, containers, orchestration, IaC, CI/CD pipelines and observability. |
 | **<img src="https://api.iconify.design/tabler:database.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Databases & Caching** | Relational and NoSQL data layers, migrations and high-performance reads with caching. |
 | **<img src="https://api.iconify.design/tabler:shield-lock.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Security** | Secure enterprise APIs: authentication, authorization, identity management and OWASP-aligned design. |
@@ -158,10 +170,10 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 ---
 
-## <img src="https://api.iconify.design/tabler:brain.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> AI · Currently Learning
+## <img src="https://api.iconify.design/tabler:brain.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> AI Â· Currently Learning
 
 <div align="center">
-  <img src="img/header.webp" alt="AI · Currently Learning" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
+  <img src="img/header.webp" alt="AI Â· Currently Learning" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
 </div>
 
 | Period | Role | Focus |

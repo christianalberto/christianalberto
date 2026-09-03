@@ -5,7 +5,7 @@ on:
     branches: ["main"]
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *" # Every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
 
 concurrency:
   group: christianalberto-profile-updates
@@ -33,7 +33,7 @@ jobs:
       - name: Download Aurora Night insights
         run: |
           curl --fail --location --retry 3 \
-            "https://github-profiles-insights.vercel.app/api/insight?username=christianalberto&theme=aurora_night&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false&cache=false" \
+            "https://github-profiles-insights.vercel.app/api/insight?username=christianalberto&theme=aurora_night&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false&_t=$(date -u +%s)" \
             -o insights.svg
 
       - name: Create GitHub cards image
@@ -60,11 +60,15 @@ jobs:
           });
           EOF
 
+      - name: Refresh README cache buster
+        run: |
+          VERSION=$(date -u +%Y%m%d%H%M%S)
+          sed -i -E "s|(\./profile/github-cards\\.png)(\\?v=[^\"' )]+)?|\1?v=${VERSION}|g" README.md
+
       - name: Commit updated card
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          sed -i -E "s|(profile/github-cards\\.png)(\\?v=[0-9]+)?|\\1?v=${{ github.run_number }}|g" README.md
           git add profile/github-cards.png
           git add README.md
 

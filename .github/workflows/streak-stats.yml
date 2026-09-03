@@ -2,7 +2,7 @@ name: Update streak stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "30 */6 * * *" # Every 6 hours, offset +30 min (00:30, 06:30, 12:30, 18:30 UTC)
   push:
     branches: ["main"]
   workflow_dispatch:
@@ -26,12 +26,13 @@ jobs:
         run: |
           mkdir -p profile
           curl --fail --location --retry 3 \
-            "https://github-profiles-insights.vercel.app/api/insight?username=christianalberto&card=streak&theme=aurora_night&cache=false" \
+            "https://github-profiles-insights.vercel.app/api/insight?username=christianalberto&card=streak&theme=aurora_night&_t=$(date -u +%s)" \
             -o profile/streak.svg
 
       - name: Refresh README cache buster
         run: |
-          sed -i -E "s|(profile/streak\\.svg)(\\?v=[0-9]+)?|\\1?v=${{ github.run_number }}|g" README.md
+          VERSION=$(date -u +%Y%m%d%H%M%S)
+          sed -i -E "s|(\./profile/streak\\.svg)(\\?v=[^\"' )]+)?|\1?v=${VERSION}|g" README.md
 
       - name: Commit streak stats
         run: |
