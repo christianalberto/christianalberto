@@ -135,19 +135,11 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 <br/>
 
 <p align="center">
-<<<<<<< Updated upstream
-  <img src="./profile/streak.svg?v=39" alt="GitHub Streak" width="500" />
-</p>
-
-<p align="center">
-  <img src="./profile/profile-gitblock.svg?v=34" alt="3D Contribution Graph" width="100%" />
-=======
   <img src="./profile/streak.svg?v=20260901150724" alt="GitHub Streak" width="500" />
 </p>
 
 <p align="center">
   <img src="./profile/profile-gitblock.svg?v=20260901150724" alt="3D Contribution Graph" width="100%" />
->>>>>>> Stashed changes
 </p>
 
 </details>
