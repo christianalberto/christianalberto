@@ -118,11 +118,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 ---
 
 <p align="center">
-<<<<<<< Updated upstream
- <img src="./profile/github-cards.png?v=24" alt="GitHub Statistics" width="100%" />
-=======
  <img src="./profile/github-cards.png?v=20260901150724" alt="GitHub Statistics" width="100%" />
->>>>>>> Stashed changes
 </p>
 
 <p>Made with https://github-profiles-insights.vercel.app/</p>
@@ -135,7 +131,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 <br/>
 
 <p align="center">
-  <img src="./profile/streak.svg?v=20260901150724" alt="GitHub Streak" width="500" />
+  <img src="./profile/streak.svg?v=20260903183224" alt="GitHub Streak" width="500" />
 </p>
 
 <p align="center">
