@@ -119,9 +119,9 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 <p align="center">
 <<<<<<< Updated upstream
- <img src="./profile/github-cards.png?v=24" alt="GitHub Statistics" width="100%" />
+ <img src="./profile/github-cards.png?v=20260903183243" alt="GitHub Statistics" width="100%" />
 =======
- <img src="./profile/github-cards.png?v=20260901150724" alt="GitHub Statistics" width="100%" />
+ <img src="./profile/github-cards.png?v=20260903183243" alt="GitHub Statistics" width="100%" />
 >>>>>>> Stashed changes
 </p>
 
