@@ -27,7 +27,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.STREAK_STATS_TOKEN }}
           USERNAME: christianalberto
-          SETTING_JSON: ./profile-3d-settings.json
+          SETTING_JSON: ./profile-night-view-settings.json
 
       - name: Match 3D language chart palette
         run: |
@@ -64,7 +64,7 @@ jobs:
       - name: Refresh README cache buster
         run: |
           VERSION=$(date -u +%Y%m%d%H%M%S)
-          sed -i -E "s|(\./profile/profile-gitblock\\.svg)(\\?v=[^\"' )]+)?|\1?v=${VERSION}|g" README.md
+          sed -i -E "s|(\./profile/profile-night-view\\.svg)(\\?v=[^\"' )]+)?|\1?v=${VERSION}|g" README.md
 
       - name: Commit updated graph
         run: |
