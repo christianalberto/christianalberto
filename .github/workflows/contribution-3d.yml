@@ -35,7 +35,7 @@ jobs:
           from pathlib import Path
           import re
 
-          svg_file = Path("profile-3d-contrib/profile-gitblock.svg")
+          svg_file = Path("profile-3d-contrib/profile-night-view.svg")
           svg = svg_file.read_text(encoding="utf-8")
 
           palette = {
@@ -58,7 +58,7 @@ jobs:
       - name: Move generated graph into profile
         run: |
           mkdir -p profile
-          mv profile-3d-contrib/profile-gitblock.svg profile/profile-gitblock.svg
+          mv profile-3d-contrib/profile-night-view.svg profile/profile-night-view.svg
           rm -rf profile-3d-contrib
 
       - name: Refresh README cache buster
@@ -70,7 +70,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/profile-gitblock.svg
+          git add profile/profile-night-view.svg
           git add README.md
 
           if git diff --cached --quiet; then
