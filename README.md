@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- ðŸŽ¨ BANNER SVG Â· TOKYO NIGHT -->
-<img src="assets/banner.svg" alt="Christian Alberto Domenech â€” Senior Full Stack Developer" width="100%" />
+<!-- BANNER SVG - TOKYO NIGHT -->
+<img src="assets/banner.svg" alt="Christian Alberto Domenech - Senior Full Stack Developer" width="100%" />
 
 <br/><br/>
 
-<!-- âŒ¨ï¸ TYPING ANIMATION Â· lÃ­neas cortas + width amplio = sin recorte -->
+<!-- TYPING ANIMATION - short lines + wide width = no clipping -->
 <!-- Generador: https://readme-typing-svg.demolab.com/demo/ -->
 <a href="https://git.io/typing-svg">
   <img
@@ -43,7 +43,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 ## <img src="https://api.iconify.design/tabler:cpu.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> Core Competencies
 
-<table>
+<table width="100%">
 <tbody>
 <tr>
 <th><font color="#7aa2f7">Languages</font></th>
@@ -150,31 +150,81 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 ## <img src="https://api.iconify.design/tabler:briefcase.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> What I Do
 
-| Area | Focus |
-|:-----|:------|
-| **<img src="https://api.iconify.design/tabler:coffee.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Backend Engineering** | Microservices, REST APIs, business logic, persistence and async processing with message queues. Scalable backend services built on Java/Spring and Node.js. |
-| **<img src="https://api.iconify.design/tabler:bolt.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Frontend Development** | Modern web applications â€” SPAs, SSR and hybrid apps â€” with Angular, React and Next.js. Component architecture, TypeScript and performance-focused UIs. |
-| **<img src="https://api.iconify.design/tabler:cloud.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Cloud & DevOps** | Cloud-native deployment, containers, orchestration, IaC, CI/CD pipelines and observability. |
-| **<img src="https://api.iconify.design/tabler:database.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Databases & Caching** | Relational and NoSQL data layers, migrations and high-performance reads with caching. |
-| **<img src="https://api.iconify.design/tabler:shield-lock.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Security** | Secure enterprise APIs: authentication, authorization, identity management and OWASP-aligned design. |
-| **<img src="https://api.iconify.design/tabler:link.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Web3 & Blockchain** | Smart contracts, wallet integrations and secure dApp backends. |
-| **<img src="https://api.iconify.design/tabler:flask.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Testing & Quality** | Unit, integration and E2E testing; API validation and code quality gates. |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Area</th>
+      <th align="left">Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong><img src="https://api.iconify.design/tabler:coffee.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Backend Engineering</strong></td>
+      <td>Microservices, REST APIs, business logic, persistence and async processing with message queues. Scalable backend services built on Java/Spring and Node.js.</td>
+    </tr>
+    <tr>
+      <td><strong><img src="https://api.iconify.design/tabler:bolt.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Frontend Development</strong></td>
+      <td>Modern web applications - SPAs, SSR and hybrid apps - with Angular, React and Next.js. Component architecture, TypeScript and performance-focused UIs.</td>
+    </tr>
+    <tr>
+      <td><strong><img src="https://api.iconify.design/tabler:cloud.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Cloud &amp; DevOps</strong></td>
+      <td>Cloud-native deployment, containers, orchestration, IaC, CI/CD pipelines and observability.</td>
+    </tr>
+    <tr>
+      <td><strong><img src="https://api.iconify.design/tabler:database.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Databases &amp; Caching</strong></td>
+      <td>Relational and NoSQL data layers, migrations and high-performance reads with caching.</td>
+    </tr>
+    <tr>
+      <td><strong><img src="https://api.iconify.design/tabler:shield-lock.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Security</strong></td>
+      <td>Secure enterprise APIs: authentication, authorization, identity management and OWASP-aligned design.</td>
+    </tr>
+    <tr>
+      <td><strong><img src="https://api.iconify.design/tabler:link.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Web3 &amp; Blockchain</strong></td>
+      <td>Smart contracts, wallet integrations and secure dApp backends.</td>
+    </tr>
+    <tr>
+      <td><strong><img src="https://api.iconify.design/tabler:flask.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Testing &amp; Quality</strong></td>
+      <td>Unit, integration and E2E testing; API validation and code quality gates.</td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
 ---
 
-## <img src="https://api.iconify.design/tabler:brain.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> AI · Currently Learning
+## <img src="https://api.iconify.design/tabler:brain.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> AI - Currently Learning
 
 <div align="center">
-  <img src="img/header.webp" alt="AI · Currently Learning" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
+  <img src="img/header.webp" alt="AI - Currently Learning" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
 </div>
 
-| Period | Role | Focus |
-|:------:|:-----|:------|
-| **Basics** | AI Fundamentals | Prompt engineering, LLM basics & AI-assisted coding |
-| **Intermediate** | LLM & RAG | Embeddings, retrieval-augmented generation & AI APIs |
-| **Advanced** | Multi-Agent Systems | Autonomous agents, orchestration & production AI workflows |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center">Period</th>
+      <th align="left">Role</th>
+      <th align="left">Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>Basics</strong></td>
+      <td>AI Fundamentals</td>
+      <td>Prompt engineering, LLM basics &amp; AI-assisted coding</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Intermediate</strong></td>
+      <td>LLM &amp; RAG</td>
+      <td>Embeddings, retrieval-augmented generation &amp; AI APIs</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Advanced</strong></td>
+      <td>Multi-Agent Systems</td>
+      <td>Autonomous agents, orchestration &amp; production AI workflows</td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
