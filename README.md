@@ -46,7 +46,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 <table width="100%">
 <tbody>
 <tr>
-<th><font color="#7aa2f7">Languages</font></th>
+<th align="left"><font color="#7aa2f7">Languages</font></th>
 <td>
   <img src="https://img.shields.io/badge/Java-1a1b26?style=for-the-badge&logo=openjdk&logoColor=7aa2f7" alt="Java"/>
   <img src="https://img.shields.io/badge/TypeScript-1a1b26?style=for-the-badge&logo=typescript&logoColor=7aa2f7" alt="TypeScript"/>
@@ -54,7 +54,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 </td>
 </tr>
 <tr>
-<th><font color="#7aa2f7">Backend</font></th>
+<th align="left"><font color="#7aa2f7">Backend</font></th>
 <td>
   <img src="https://img.shields.io/badge/Spring_Boot-1a1b26?style=for-the-badge&logo=spring-boot&logoColor=7aa2f7" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Hibernate-1a1b26?style=for-the-badge&logo=hibernate&logoColor=7aa2f7" alt="Hibernate"/>
@@ -62,7 +62,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 </td>
 </tr>
 <tr>
-<th><font color="#7aa2f7">Frontend</font></th>
+<th align="left"><font color="#7aa2f7">Frontend</font></th>
 <td>
   <img src="https://img.shields.io/badge/Angular-1a1b26?style=for-the-badge&logo=angular&logoColor=7aa2f7" alt="Angular"/>
   <img src="https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=7aa2f7" alt="React"/>
@@ -70,7 +70,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 </td>
 </tr>
 <tr>
-<th><font color="#7aa2f7">Databases</font></th>
+<th align="left"><font color="#7aa2f7">Databases</font></th>
 <td>
   <img src="https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=7aa2f7" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-1a1b26?style=for-the-badge&logo=mysql&logoColor=7aa2f7" alt="MySQL"/>
@@ -79,7 +79,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 </td>
 </tr>
 <tr>
-<th><font color="#7aa2f7">Cloud & DevOps</font></th>
+<th align="left"><font color="#7aa2f7">Cloud & DevOps</font></th>
 <td>
   <img src="https://img.shields.io/badge/AWS-1a1b26?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48cGF0aCBmaWxsPSIjN2FhMmY3IiBkPSJNMTgwLjQgMjAzYy0uNyAyMi42IDEwLjYgMzIuNyAxMC45IDM5LS4xIDEuMy0uNiAyLjUtMS4zIDMuNnMtMS43IDItMi44IDIuNmwtMTIuOCA5Yy0xLjcgMS4yLTMuNiAxLjgtNS42IDEuOS0uNCAwLTguMiAxLjgtMjAuNS0yNS42LTcuNSA5LjQtMTcgMTYuOS0yNy45IDIycy0yMi43IDcuNy0zNC43IDcuNWMtMTYuMyAuOS02MC40LTkuMi01OC4xLTU2LjItMS42LTM4LjMgMzQuMS02Mi4xIDcwLjktNjAgNy4xIDAgMjEuNiAuNCA0NyA2LjNsMC0xNS42YzIuNy0yNi41LTE0LjctNDctNDQuOC00My45LTIuNCAwLTE5LjQtLjUtNDUuOCAxMC4xLTcuNCAzLjQtOC4zIDIuOC0xMC44IDIuOC03LjQgMC00LjQtMjEuNS0yLjktMjQuMiA1LjItNi40IDM1LjktMTguNCA2NS45LTE4LjIgMjAuMS0xLjggNDAuMSA0LjQgNTUuNyAxNy4zIDYuMyA3LjEgMTEuMiAxNS40IDE0LjIgMjQuNHM0LjIgMTguNSAzLjUgMjhsMCA2OS4zek05NCAyMzUuNGMzMi40LS41IDQ2LjItMjAgNDkuMy0zMC41IDIuNS0xMC4xIDIuMS0xNi40IDIuMS0yNy40LTkuNy0yLjMtMjMuNi00LjktMzkuNi00LjktMTUuMi0xLjEtNDIuOCA1LjYtNDEuNyAzMi4zLTEuMiAxNi44IDExLjEgMzEuNCAzMCAzMC41em0xNzAuOSAyMy4xYy03LjkgLjctMTEuNS00LjktMTIuNy0xMC40TDIwMi40IDgzLjRjLTEtMi44LTEuNi01LjYtMS45LTguNi0uMi0xLjIgLjEtMi40IC44LTMuNHMxLjgtMS42IDMtMS44Yy4yIDAtMi4xIDAgMjIuMiAwIDguOC0uOSAxMS42IDYgMTIuNiAxMC40TDI3NC45IDIyMC44IDMwOC4xIDgwYy41LTMuMiAyLjktMTEuMSAxMi44LTEwLjJsMTcuMiAwYzIuMi0uMiAxMS4xLS41IDEyLjcgMTAuNEwzODQuMSAyMjIuNyA0MjEgODAuMWMuNS0yLjIgMi43LTExLjQgMTIuNy0xMC40bDE5LjcgMGMuOS0uMSA2LjItLjggNS4zIDguNi0uNCAxLjggMy40LTEwLjctNTIuOCAxNjkuOS0xLjEgNS41LTQuOCAxMS4xLTEyLjcgMTAuNGwtMTguNyAwYy0xMC45IDEuMi0xMi41LTkuNy0xMi43LTEwLjdsLTMzLjItMTM3LjEtMzIuOCAxMzdjLS4yIDEuMS0xLjcgMTEuOS0xMi43IDEwLjdsLTE4LjMgMCAwIDB6bTI3My41IDUuNmMtNS45IDAtMzMuOS0uMy01Ny40LTEyLjMtMi4zLTEtNC4zLTIuNi01LjctNC44cy0yLjEtNC42LTIuMS03LjFsMC0xMC43YzAtOC41IDYuMi02LjkgOC44LTUuOSAxMCA0LjEgMTYuNSA3LjEgMjguOCA5LjYgMzYuNyA3LjUgNTIuOC0yLjMgNTYuNy00LjUgMTMuMi03LjggMTQuMi0yNS43IDUuMy0zNC45LTEwLjUtOC44LTE1LjUtOS4xLTUzLjEtMjEtNC42LTEuMy00My43LTEzLjYtNDMuOC01Mi40LS42LTI4LjIgMjUtNTYuMiA2OS41LTU2IDEyLjcgMCA0Ni40IDQuMSA1NS42IDE1LjYgMS40IDIuMSAyIDQuNiAxLjkgN2wwIDEwLjFjMCA0LjQtMS42IDYuNy00LjkgNi43LTcuNy0uOS0yMS40LTExLjItNDkuMi0xMC44LTYuOS0uNC0zOS45IC45LTM4LjQgMjUtLjQgMTkgMjYuNiAyNi4xIDI5LjcgMjYuOSAzNi41IDExIDQ4LjYgMTIuOCA2My4xIDI5LjYgMTcuMSAyMi4yIDcuOSA0OC4zIDQuMyA1NS40LTE5LjEgMzcuNS02OC40IDM0LjQtNjkuMyAzNC40em00MC4yIDEwNC45Yy03MCA1MS43LTE3MS43IDc5LjItMjU4LjUgNzkuMi0xMTcuMSAuOC0yMzAuMy00Mi4zLTMxNy4zLTEyMC43LTYuNS01LjktLjgtMTQgNy4yLTkuNSA5Ni41IDU1LjIgMjA1LjcgODQuMiAzMTYuOSA4NC4xIDgzLS40IDE2NS4xLTE3LjMgMjQxLjYtNDkuNSAxMS44LTUgMjEuOCA3LjggMTAuMSAxNi40em0yOS4yLTMzLjNjLTktMTEuNS01OS4zLTUuNC04MS44LTIuNy02LjggLjgtNy45LTUuMS0xLjgtOS41IDQwLjEtMjguMiAxMDUuOS0yMC4xIDExMy40LTEwLjYgNy41IDkuNS0yLjEgNzUuNC0zOS42IDEwNi45LTUuOCA0LjktMTEuMyAyLjMtOC43LTQuMSA4LjQtMjEuMyAyNy40LTY4LjUgMTguNC04MHoiLz48L3N2Zz4=" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=7aa2f7" alt="Docker"/>
@@ -87,7 +87,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 </td>
 </tr>
 <tr>
-<th><font color="#7aa2f7">Security</font></th>
+<th align="left"><font color="#7aa2f7">Security</font></th>
 <td>
   <img src="https://img.shields.io/badge/JWT-1a1b26?style=for-the-badge&logo=json-web-tokens&logoColor=7aa2f7" alt="JWT"/>
   <img src="https://img.shields.io/badge/OWASP-1a1b26?style=for-the-badge&logo=owasp&logoColor=7aa2f7" alt="OWASP"/>
@@ -95,7 +95,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 </td>
 </tr>
 <tr>
-<th><font color="#7aa2f7">Testing</font></th>
+<th align="left"><font color="#7aa2f7">Testing</font></th>
 <td>
   <img src="https://img.shields.io/badge/JUnit-1a1b26?style=for-the-badge&logo=junit5&logoColor=7aa2f7" alt="JUnit"/>
   <img src="https://img.shields.io/badge/Jest-1a1b26?style=for-the-badge&logo=jest&logoColor=7aa2f7" alt="Jest"/>
@@ -103,7 +103,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 </td>
 </tr>
 <tr>
-<th><font color="#7aa2f7">Web3</font></th>
+<th align="left"><font color="#7aa2f7">Web3</font></th>
 <td>
   <img src="https://img.shields.io/badge/Solidity-1a1b26?style=for-the-badge&logo=solidity&logoColor=7aa2f7" alt="Solidity"/>
   <img src="https://img.shields.io/badge/Ethereum-1a1b26?style=for-the-badge&logo=ethereum&logoColor=7aa2f7" alt="Ethereum"/>
@@ -119,7 +119,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 <p align="center">
   <a href="https://github-profiles-insights.vercel.app/api/insight?username=christianalberto&theme=aurora_night&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false">
-    <img src="./profile/github-cards.png?v=20260904024126" alt="GitHub Statistics" width="100%" />
+    <img src="./profile/github-cards.png?v=20260904022647" alt="GitHub Statistics" width="100%" />
   </a>
 </p>
 
@@ -153,8 +153,8 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">Area</th>
-      <th align="left">Focus</th>
+      <th align="left" width="25%">Area</th>
+      <th align="left" width="75%">Focus</th>
     </tr>
   </thead>
   <tbody>
@@ -195,35 +195,32 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 ## <img src="https://api.iconify.design/tabler:brain.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> AI - Currently Learning
 
-<div align="center">
-  <img src="img/header.webp" alt="AI - Currently Learning" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
-</div>
-
 <table width="100%">
-  <thead>
-    <tr>
-      <th align="center">Period</th>
-      <th align="left">Role</th>
-      <th align="left">Focus</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><strong>Basics</strong></td>
-      <td>AI Fundamentals</td>
-      <td>Prompt engineering, LLM basics &amp; AI-assisted coding</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Intermediate</strong></td>
-      <td>LLM &amp; RAG</td>
-      <td>Embeddings, retrieval-augmented generation &amp; AI APIs</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Advanced</strong></td>
-      <td>Multi-Agent Systems</td>
-      <td>Autonomous agents, orchestration &amp; production AI workflows</td>
-    </tr>
-  </tbody>
+  <tr>
+    <td colspan="3">
+      <img src="img/header.webp" alt="AI - Currently Learning" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <th width="20%" align="center">Period</th>
+    <th width="30%" align="left">Role</th>
+    <th width="50%" align="left">Focus</th>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><strong>Basics</strong></td>
+    <td width="30%">AI Fundamentals</td>
+    <td width="50%">Prompt engineering, LLM basics &amp; AI-assisted coding</td>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><strong>Intermediate</strong></td>
+    <td width="30%">LLM &amp; RAG</td>
+    <td width="50%">Embeddings, retrieval-augmented generation &amp; AI APIs</td>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><strong>Advanced</strong></td>
+    <td width="30%">Multi-Agent Systems</td>
+    <td width="50%">Autonomous agents, orchestration &amp; production AI workflows</td>
+  </tr>
 </table>
 
 <br/>
