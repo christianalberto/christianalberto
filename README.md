@@ -134,7 +134,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 <p align="center">
   <a href="https://github-profiles-insights.vercel.app/api/insight?username=christianalberto&card=streak&theme=aurora_night">
-    <img src="./profile/streak.svg?v=20260904205327" alt="GitHub Streak" width="500" />
+    <img src="./profile/streak.svg?v=20260904222516" alt="GitHub Streak" width="500" />
   </a>
 </p>
 
