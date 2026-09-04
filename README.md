@@ -167,7 +167,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 ## <img src="https://api.iconify.design/tabler:brain.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> AI Â· Currently Learning
 
 <div align="center">
-  <img src="img/header.webp" alt="AI Â· Currently Learning" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
+  <img src="img/header.webp" alt="AI · Currently Learning" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
 </div>
 
 | Period | Role | Focus |
