@@ -140,7 +140,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 <p align="center">
   <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
-    <img src="./profile/profile-night-view.svg?v=20260901150724" alt="3D Contribution Graph" width="100%" />
+    <img src="./profile/profile-night-view.svg?v=20260904013612" alt="3D Contribution Graph" width="100%" />
   </a>
 </p>
 
