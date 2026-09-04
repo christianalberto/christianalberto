@@ -119,7 +119,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 <p align="center">
   <a href="https://github-profiles-insights.vercel.app/api/insight?username=christianalberto&theme=aurora_night&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false">
-    <img src="./profile/github-cards.png?v=20260904013313" alt="GitHub Statistics" width="100%" />
+    <img src="./profile/github-cards.png?v=20260904014753" alt="GitHub Statistics" width="100%" />
   </a>
 </p>
 
@@ -134,13 +134,13 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 <p align="center">
   <a href="https://github-profiles-insights.vercel.app/api/insight?username=christianalberto&card=streak&theme=aurora_night">
-    <img src="./profile/streak.svg?v=20260904013257" alt="GitHub Streak" width="500" />
+    <img src="./profile/streak.svg?v=20260904014025" alt="GitHub Streak" width="500" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
-    <img src="./profile/profile-night-view.svg?v=20260904013612" alt="3D Contribution Graph" width="100%" />
+    <img src="./profile/profile-night-view.svg?v=20260904014036" alt="3D Contribution Graph" width="100%" />
   </a>
 </p>
 
