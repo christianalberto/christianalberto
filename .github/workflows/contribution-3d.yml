@@ -22,44 +22,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Tokyo Night contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.STREAK_STATS_TOKEN }}
-          USERNAME: christianalberto
-          SETTING_JSON: ./profile-night-view-settings.json
-
-      - name: Match 3D language chart palette
-        run: |
-          python3 - <<'PY'
-          from pathlib import Path
-          import re
-
-          svg_file = Path("profile-3d-contrib/profile-night-view.svg")
-          svg = svg_file.read_text(encoding="utf-8")
-
-          palette = {
-              "#f1e05a": "#38BDAE",
-              "#e34c26": "#70A5FD",
-              "#fbbf24": "#BF91F3",
-              "#ff6b35": "#70A5FD",
-              "#663399": "#BF91F3",
-              "#083fa1": "#70A5FD",
-              "#3572a5": "#38BDAE",
-              "#aa6746": "#A9AFD0",
-          }
-
-          for source, target in palette.items():
-              svg = re.sub(source, target, svg, flags=re.IGNORECASE)
-
-          svg_file.write_text(svg, encoding="utf-8")
-          PY
-
-      - name: Move generated graph into profile
+      - name: Download Alberto 3D contribution graph
         run: |
           mkdir -p profile
-          mv profile-3d-contrib/profile-night-view.svg profile/profile-night-view.svg
-          rm -rf profile-3d-contrib
+          curl --fail --location --retry 3 \
+            "https://github-profiles-insights.vercel.app/api/contrib-3d?username=christianalberto&style=alberto&animate=true&_t=$(date -u +%s)" \
+            -o profile/profile-night-view.svg
+
+          # Fail early if the API returned an error SVG instead of a real graph
+          if ! grep -q '<svg' profile/profile-night-view.svg; then
+            echo "Downloaded file is not a valid SVG"
+            exit 1
+          fi
+          if grep -qiE 'GITHUB_TOKEN is not configured|User .+ not found|Failed to generate' profile/profile-night-view.svg; then
+            echo "API returned an error SVG:"
+            head -c 500 profile/profile-night-view.svg
+            exit 1
+          fi
 
       - name: Refresh README cache buster
         run: |
