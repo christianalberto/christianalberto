@@ -128,7 +128,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 ---
 
 <details>
-<summary><strong>View full statistics</strong></summary>
+<summary><strong><img src="https://api.iconify.design/tabler:chart-histogram.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> View full statistics</strong></summary>
 
 <br/>
 
