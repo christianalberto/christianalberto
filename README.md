@@ -31,7 +31,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/tabler:user.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> About Me
+## <img src="./assets/icons/user.svg" width="28" style="vertical-align:-6px;margin-right:8px"/> About Me
 
 Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** building enterprise software for **banking, telecom, e-commerce and digital platforms**. I focus on **backend development**, **frontend applications**, **REST APIs** and **clean, maintainable code**.
 
@@ -39,7 +39,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 ---
 
-## <img src="https://api.iconify.design/tabler:cpu.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> Core Competencies
+## <img src="./assets/icons/cpu.svg" width="28" style="vertical-align:-6px;margin-right:8px"/> Core Competencies
 
 <table width="100%">
 <tbody>
@@ -126,7 +126,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 ---
 
 <details>
-<summary><strong><img src="https://api.iconify.design/tabler:chart-histogram.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> View full statistics</strong></summary>
+<summary><strong><img src="./assets/icons/chart-histogram.svg" width="18" style="vertical-align:-4px;margin-right:4px"/> View full statistics</strong></summary>
 
 <br/>
 
@@ -146,7 +146,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 ---
 
-## <img src="https://api.iconify.design/tabler:briefcase.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> What I Do
+## <img src="./assets/icons/briefcase.svg" width="28" style="vertical-align:-6px;margin-right:8px"/> What I Do
 
 <table width="100%">
   <thead>
@@ -157,31 +157,31 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
   </thead>
   <tbody>
     <tr>
-      <td><strong><img src="https://api.iconify.design/tabler:coffee.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Backend Engineering</strong></td>
+      <td><strong><img src="./assets/icons/coffee.svg" width="18" style="vertical-align:-4px;margin-right:4px"/> Backend Engineering</strong></td>
       <td>Microservices, REST APIs, business logic, persistence and async processing with message queues. Scalable backend services built on Java/Spring and Node.js.</td>
     </tr>
     <tr>
-      <td><strong><img src="https://api.iconify.design/tabler:bolt.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Frontend Development</strong></td>
+      <td><strong><img src="./assets/icons/bolt.svg" width="18" style="vertical-align:-4px;margin-right:4px"/> Frontend Development</strong></td>
       <td>Modern web applications - SPAs, SSR and hybrid apps - with Angular, React and Next.js. Component architecture, TypeScript and performance-focused UIs.</td>
     </tr>
     <tr>
-      <td><strong><img src="https://api.iconify.design/tabler:cloud.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Cloud &amp; DevOps</strong></td>
+      <td><strong><img src="./assets/icons/cloud.svg" width="18" style="vertical-align:-4px;margin-right:4px"/> Cloud &amp; DevOps</strong></td>
       <td>Cloud-native deployment, containers, orchestration, IaC, CI/CD pipelines and observability.</td>
     </tr>
     <tr>
-      <td><strong><img src="https://api.iconify.design/tabler:database.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Databases &amp; Caching</strong></td>
+      <td><strong><img src="./assets/icons/database.svg" width="18" style="vertical-align:-4px;margin-right:4px"/> Databases &amp; Caching</strong></td>
       <td>Relational and NoSQL data layers, migrations and high-performance reads with caching.</td>
     </tr>
     <tr>
-      <td><strong><img src="https://api.iconify.design/tabler:shield-lock.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Security</strong></td>
+      <td><strong><img src="./assets/icons/shield-lock.svg" width="18" style="vertical-align:-4px;margin-right:4px"/> Security</strong></td>
       <td>Secure enterprise APIs: authentication, authorization, identity management and OWASP-aligned design.</td>
     </tr>
     <tr>
-      <td><strong><img src="https://api.iconify.design/tabler:link.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Web3 &amp; Blockchain</strong></td>
+      <td><strong><img src="./assets/icons/link.svg" width="18" style="vertical-align:-4px;margin-right:4px"/> Web3 &amp; Blockchain</strong></td>
       <td>Smart contracts, wallet integrations and secure dApp backends.</td>
     </tr>
     <tr>
-      <td><strong><img src="https://api.iconify.design/tabler:flask.svg?color=%237aa2f7" width="18" style="vertical-align:-4px;margin-right:4px"/> Testing &amp; Quality</strong></td>
+      <td><strong><img src="./assets/icons/flask.svg" width="18" style="vertical-align:-4px;margin-right:4px"/> Testing &amp; Quality</strong></td>
       <td>Unit, integration and E2E testing; API validation and code quality gates.</td>
     </tr>
   </tbody>
@@ -191,7 +191,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 ---
 
-## <img src="https://api.iconify.design/tabler:brain.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> AI - Currently Learning
+## <img src="./assets/icons/brain.svg" width="28" style="vertical-align:-6px;margin-right:8px"/> AI - Currently Learning
 
 <table width="100%">
   <tr>
@@ -225,7 +225,7 @@ Hi, I'm Christian Alberto, Senior Full Stack Developer with **18+ years** buildi
 
 ---
 
-## <img src="https://api.iconify.design/tabler:mail.svg?color=%237aa2f7" width="28" style="vertical-align:-6px;margin-right:8px"/> Contact
+## <img src="./assets/icons/mail.svg" width="28" style="vertical-align:-6px;margin-right:8px"/> Contact
 
 <div align="center">
 
